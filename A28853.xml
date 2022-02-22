@@ -1,0 +1,1039 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The way to honour in three parts : first part of councils and councellors, second part of the well qualified courtier, third part of martial prowess and learning : illustrated and adorn'd by many famous examples, as well ancient as modern / by B.B.</title>
+            <author>B. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 157 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28853</idno>
+            <idno type="STC">Wing B38</idno>
+            <idno type="STC">ESTC R28323</idno>
+            <idno type="EEBO-CITATION">10525986</idno>
+            <idno type="OCLC">ocm 10525986</idno>
+            <idno type="VID">45199</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45199)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The way to honour in three parts : first part of councils and councellors, second part of the well qualified courtier, third part of martial prowess and learning : illustrated and adorn'd by many famous examples, as well ancient as modern / by B.B.</title>
+                  <author>B. B.</author>
+               </titleStmt>
+               <extent>[6], 109 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, September 20, 1677. Roger L'Estrange."--p. 6.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Politics, Practical --  Early works to 1800.</term>
+               <term>Courts and courtiers.</term>
+               <term>Military education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45199:1"/>
+            <pb facs="tcp:45199:1"/>
+            <p>THE WAY TO HONOUR. In three PARTS.</p>
+            <list>
+               <item>Firſt Part, of Councils and Councellors.</item>
+               <item>Second Part, Of the well-qualified Courtier.</item>
+               <item>Third Part, Of Martial Proweſs and Learning.</item>
+            </list>
+            <p>Illuſtrated and adorn'd by many famous Ex<g ref="char:EOLhyphen"/>amples, as well Ancient as Modern.</p>
+            <p>By <hi>B. B.</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the Bible and three Crowns, at the lower end of <hi>Cheapſide.</hi> 1678.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45199:2" rendition="simple:additions"/>
+            <pb facs="tcp:45199:2"/>
+            <head>To the Illuſtrious and Magnani<g ref="char:EOLhyphen"/>mous Prince <hi>Chriſtopher,</hi> Duke of <hi>Albemarle,</hi> Earl of <hi>Torring<g ref="char:EOLhyphen"/>ton,</hi> Baron <hi>Monk</hi> of <hi>Potheridge, Beaucamp,</hi> and <hi>Teys;</hi> Knight of the moſt Noble Order of the Garter; one of the Gentlemen of His Majeſty's Bed-Chamber; one of the Lords of His Ma<g ref="char:EOLhyphen"/>jeſty's Moſt Honourable Privy-Council; and Lord Lieutenant of the County of <hi>Devonſhire,</hi> and <hi>Eſſex.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Grace,</salute>
+            </opener>
+            <p>IF I ſhould preſent you with what is contain'd in this Conciſe Treatiſe, of <hi>The Way to Honour,</hi> as binding Rules to your Grace, I ſhould be like to that ri<g ref="char:EOLhyphen"/>diculous
+<pb facs="tcp:45199:3"/>Philoſopher, who, not knowing any thing of War, more than ſome few Martial Axiomes, preſum'd to read Mili<g ref="char:EOLhyphen"/>tary Lectures to <hi>Hannibal,</hi> one of the greateſt Captains ever Nature produc'd: Your Noble Soul being endued with ſuch principles of true Honour, that it compre<g ref="char:EOLhyphen"/>hends all Laws in it ſelf, that direct and manage you. I only aſſume the boldneſs, my Lord, to throw theſe my Labours at your Grace's Feet, humbly begging that they may be ſhrouded under the Wings of your Grace's moſt noble Patronage; and I hope your truly Heroick Generoſity is ſuch, that it will not diſdain the meaner, and obſcurer, as well as more <hi>Glorious</hi> and <hi>Reſplendent</hi> Objects: For I am confident I could not chuſe a more Glorious Patron of <hi>The Way to Honour,</hi> than your Grace, the very Mirrour of true Honour, and E<g ref="char:EOLhyphen"/>pitome of Worth. But if my Preſumpti<g ref="char:EOLhyphen"/>on in this preſent Dedication be great, yet I hope your Grace's greater goodneſs may be pleas'd to pardon the ſame. And though I am not ignorant that your Grace may be averſe from all addreſſes of this
+<pb facs="tcp:45199:3"/>Nature; yet could not ſuch an apprehen<g ref="char:EOLhyphen"/>ſion beat me from my deſign, being forc'd to the attempt by the ardent deſire I had to ſhow my humble and profound reſpects to your Grace's grand, as well Hereditary as Perſonal Merits, which are of ſuch a tranſcendent Quality, as that all your Noble, and brave Inclinations, and De<g ref="char:EOLhyphen"/>portments ſhow you to be the Generous Son of that incomparable Hero, that miracle of Men, that Wonder of future Ages, the happy reſtorer of lawful Monarchy, and Loyalty. But here I muſt acknowledge my own inſufficiency, to give due Praiſes to ſuch eminent Virtue, which has rais'd it ſelf upon the moſt ſolid Foundation of true Honour, that ever by-paſt Times could pro<g ref="char:EOLhyphen"/>duce, Forreign Nations boaſt of, or Ancient or Modern Story mention, and leave it to a more able Pen, to do your Grace, if poſſi<g ref="char:EOLhyphen"/>ble, and the World that right; but as it is beyond all former example, ſo I think it is above all real Character: wiſhing to ſee your Grace's Enſigns flouriſh where the Roman Eagles never flew.</p>
+            <pb facs="tcp:45199:4"/>
+            <p>Generous Prince, the Subject of this enſuing Diſcourſe diſ-agrees ſo much with my preſent condition, that it may with ſome ſhew of Juſtice give occaſion to Criticks to upbraid me with Preſumpti<g ref="char:EOLhyphen"/>on: but when they know that neither my Condition, or hopes have formerly been ſo deſpicable, or deſperate, but that I might with ſome reaſon have aſpired to ſomething elſe then what I am; and conſider, that Fortune takes delight to diſplay upon the Theater of prefer<g ref="char:EOLhyphen"/>ment, the moſt remarkable tricks of her malice; they will be no more cen<g ref="char:EOLhyphen"/>ſorious, but commend the endeavour, though weak, as aiming at the publick good.</p>
+            <p>As that Glorious Lamp of the World diſtributes Light, Heat, Life, and moti<g ref="char:EOLhyphen"/>on to inferiour bodies, without the leaſt diminution of its Splendor, or inherent virtues; ſo may this our Riſing-Sun ſend down benevolent influences on our riſing hopes, before he reach the Meridian of his Glory. Then will we cry out with <hi>The<g ref="char:EOLhyphen"/>miſtocles,
+<pb facs="tcp:45199:4"/>we had been undone if we had not been ſo.</hi> I for my part will court occaſions to merit the leaſt favour<g ref="char:EOLhyphen"/>able Aſpect, and always acknowledge my ſelf to be,</p>
+            <closer>
+               <salute>Brave Prince,</salute>
+               <signed>Your Grace's Moſt humbly devoted Servant. B. B.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <pb facs="tcp:45199:5"/>
+            <p>Licenſed,</p>
+            <closer>
+               <date>
+                  <hi>September</hi> 20. 1677.</date>
+               <signed>Roger L'Eſtrange.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:45199:5" rendition="simple:additions"/>
+            <head>OF COUNCILS AND COUNCELLORS.</head>
+            <div n="1" type="part">
+               <head>PART. I.</head>
+               <div type="proem">
+                  <head>The PROEME.</head>
+                  <p>
+                     <seg rend="decorInit">S</seg>EEING it is moſt certain, that in Private Affairs the wiſ<g ref="char:EOLhyphen"/>eſt of Men ſtand in need of the Advice of others; how much more can ſuch want the Counſel of prudent Men, who reign over multitudes of Peo<g ref="char:EOLhyphen"/>ple,
+<note n="*" place="margin">
+                        <hi>Tac.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 4. <hi>an.</hi>
+                     </note> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> incumbred with almoſt infi<g ref="char:EOLhyphen"/>nite troubles: ſuch, I ſay, whoſe leaſt errours are prejudicial to the whole Kingdome, and ſometimes to the whole World? Therefore as Tyrants hated Faith<g ref="char:EOLhyphen"/>ful Councellors, and did confer great Ho<g ref="char:EOLhyphen"/>nour
+<pb n="2" facs="tcp:45199:6"/>and Riches, (the juſt rewards of vertue,) on wicked Men, by whoſe Flagitious Impiety their Empires were often brought to deſtructi<g ref="char:EOLhyphen"/>on: So on the contrary we read that the beſt Princes were always accompanied with Ho<g ref="char:EOLhyphen"/>neſt and Faithful Miniſters. <hi>Cajus Caeſar</hi> had <hi>Quintus Pedius; Auguſtus, Maecenas</hi> and <hi>Agrip<g ref="char:EOLhyphen"/>pa: Adrian</hi> had <hi>Celſus, Salvius</hi> and <hi>Neratius, Marcus Antoninus, Scaevola, Mutianus</hi> and <hi>Volſianus;</hi> and <hi>Severus</hi> had <hi>Pompinianus. You ſhall hardly find,</hi> ſays Vellius, <hi>that eminent Prin<g ref="char:EOLhyphen"/>ces did not make uſe of vertuous Councellors to govern their Fortunes. Great things,</hi> ſays Cicero,
+<note n="*" place="margin">Cic. in Cat. maje<g ref="char:EOLhyphen"/>re.</note> 
+                     <hi>are not done through Strength or Ce<g ref="char:EOLhyphen"/>lerity of the Body,</hi> but through Coun<g ref="char:EOLhyphen"/>cil and Authority. <hi>And I,</hi> ſays Saluſt, <hi>have found by much reading and hearing, that all Kingdoms and Common-wealths were proſperous, ſo long as Good Council had Authority amongſt them; but when Favour, Fear and Voluptuouſ<g ref="char:EOLhyphen"/>neſs did corrupt the ſame, then incontinently their riches were diminiſhed, their command taken from them; and laſt of all they endured the Yoke of Bondage and Slavery:</hi> which was underſtood, when <hi>Pericles,</hi> to gain the favour of the Com<g ref="char:EOLhyphen"/>mon-people,
+<note n="*" place="margin">Plutar.</note> did take away the Au<g ref="char:EOLhyphen"/>thority of the <hi>Areopagitae,</hi> or <hi>Atheni<g ref="char:EOLhyphen"/>an</hi> Judges, and did give the ſame to the Vul<g ref="char:EOLhyphen"/>gar. For not long after that Common-wealth did begin to fall, being ſhaken with Forreign and Civil War.
+<note n="*" place="margin">
+                        <hi>Dionyſ. Hal. l.</hi> 2.</note> And Ju<g ref="char:EOLhyphen"/>dicious
+<pb n="3" facs="tcp:45199:6"/>Men do think, that the only cauſe that made <hi>Rome</hi> flouriſh ſo long, was, that they did not follow their own, but the Counſel of their <hi>Senate. There is no greater Inſtrument of a well govern'd Kingdom,</hi> ſays Tacitus,
+<note n="*" place="margin">
+                        <hi>Lib.</hi> 4. <hi>Hist.</hi>
+                     </note> 
+                     <hi>than a Good Councellor.</hi> And to ſpeak it in a Word, the Mind and Underſtanding are not more neceſſary in an hu<g ref="char:EOLhyphen"/>mane body, than Council is in a Prince. It was a ſaying of <hi>one of the</hi> Sages <hi>of Greece, that in the Aſſembly of wiſe men, Princes themſelves grow wiſe. The Prince becomes good,</hi> ſays Ca<g ref="char:EOLhyphen"/>pitolanus, <hi>if he make uſe of good Men for his Councellors.</hi> And let it be granted, that the Prince's Commands were ſometimes hard; yet they will ſeem juſt for this only cauſe, that they were done with the conſent of prudent Men<g ref="char:punc">▪</g> neither can a Prince ſhow a greatee evidence of a good Nature, (according to <hi>Cominus</hi>) than to chooſe Councellors famous for their Virtue. For every one will preſently judge, that the Inclinations and Manners of the Prince, are correſponding to thoſe of his Favourite<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Princes are known by their Councellors,</hi> ſays <hi>Oth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> the Emperor
+<note n="*" place="margin">
+                        <hi>Lib.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <hi>Hiſt.</hi>
+                     </note> in <hi>Tacitus.</hi> Moreover Subjects will fear to offend, or con<g ref="char:EOLhyphen"/>tradict the Command of ſuch Prin<g ref="char:EOLhyphen"/>ces, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m they know to do all things with the conſent of Judicious Men; beſides the pleaſure which Princes enjoy, who oblige good Men by their affection and benevolence, on whoſe Vir<g ref="char:EOLhyphen"/>tue and Fidelity they can ſecurely rely.</p>
+               </div>
+               <div n="1" type="chapter">
+                  <pb n="4" facs="tcp:45199:7"/>
+                  <head>CHAP. I. <hi>The Definition and Nature of a Council.</hi>
+                  </head>
+                  <p>A Council, ſays the Philoſopher, is a cer<g ref="char:EOLhyphen"/>tain, inveſtigation or ſearch of thoſe things, by which we can eaſily come to the end, which we have propos'd to our ſelves.</p>
+                  <p>But becauſe in this place we are to ſpeak of the Council of a Prince, we call the ſame a Lawful Aſſembly of ſelected Men, to give Advice to their Prince, in the adminiſtrati<g ref="char:EOLhyphen"/>on of Affairs, either in Peace or War; by whoſe help he minds things by-paſt, beholds thoſe which are preſent, provides for the future, obtains the happy ſucceſs of his enterpriſes, ſhuns misfortunes, or if that be not poſſible, finds a way whereby they may become ſupportable.</p>
+                  <p>This Council may be conſidered in three re<g ref="char:EOLhyphen"/>ſpects, the Perſons therein, to wit, the Coun<g ref="char:EOLhyphen"/>cellor who giveth Council, and the Prince who asketh the ſame; next, the things which are handled in the Council, and laſtly the end thereof. Three things are to be regarded, ſays <hi>Quintilian,</hi> in Perſwaſions and Councils: what it is, who they are, and to what end.</p>
+               </div>
+               <div n="2" type="chapter">
+                  <pb n="5" facs="tcp:45199:7"/>
+                  <head>CHAP. II. <hi>The Deſcription, Qualification, and Duty of a Councellor.</hi>
+                  </head>
+                  <p>A Councellor is he, who faithfully and prudently ſuggeſteth to his Prince, what tendeth to the good of the Republick.</p>
+                  <p>From which Deſcription we muſt obſerve two things, his Qualifications, and his Office or Duty. That it may be better underſtood, the Qualifications of a Councellor are partly from Nature, partly from Induſtry, and partly from Fortune; to be more brief, they are either innate, or acquired; innate as the Genius, comely forme of the Body; and parts acquired by Study or Exerciſe, Arts, Sciences, <hi>&amp;c.</hi>
+                  </p>
+                  <div n="1" type="section">
+                     <head>SECT. I. <hi>Of his Genius.</hi>
+                     </head>
+                     <p>Seeing then that none can excel in any Virtue, unleſs they have the Foundation of Nature laid, a Councellor muſt be of a ſtrong and ſolid Wit. For as great weights, which cannot be elevated by the mere ſtrength of Men, are eaſily mov'd by Engines; ſo you ſhall effect that by your Promptitude of Wit, which you oftimes cannot do any other manner
+<pb n="6" facs="tcp:45199:8"/>of way. <hi>There are ſome</hi> prompt motions <hi>of the mind, ſays</hi> Cicero, <hi>which are quick to excogitate, and fertile to explain and adorn.</hi> It is requiſite for a Councellor to have a ready and indefati<g ref="char:EOLhyphen"/>cable Genius, in the managing of Civil Affairs, and who knows to fit his Counſels according to Circumſtances. A man is known to have a good Genius, if he be eloquent, quick of ap<g ref="char:EOLhyphen"/>prehenſion, prompt in anſwering, clear in in<g ref="char:EOLhyphen"/>ſtructing, and cautious in ſerious matters. <hi>The Wit, ſays</hi> Seneca, <hi>is nouriſhed, and grows by Precepts; adds new perſwaſions to thoſe already inbred, and amends the bad.</hi>
+                     </p>
+                     <p>But a Councellor muſt know how to uſe this quickneſs aright, leſt he deſerve the name of a Sophiſter. Whereas therefore we ſay that a good Genius is needful, that muſt not be un<g ref="char:EOLhyphen"/>derſtood meerly of one that is acute and great, but of one that is prompt and apt, and which has the direct rule of a ſolid Judgment. For without this, Affairs many times have deſtru<g ref="char:EOLhyphen"/>ctive and fatal events. <hi>Fiery and too ſubtle Spirits, ſays</hi> Curtius,
+<note n="*" place="margin">
+                           <hi>Lib.</hi> 2.</note> 
+                        <hi>are fitter to innovate than manage Affairs, and often deſtroy their own Authority, if they have any.</hi> For it's frequently ſeen by Natures de<g ref="char:EOLhyphen"/>cree diſtributing her gifts amongſt Mortals, that a man, although of an excellent Genius, is nevertheleſs not fit for every ſort of employ<g ref="char:EOLhyphen"/>ment, and cannot happily enough apply himſelf to the various Inclinations and Humours of
+<pb n="7" facs="tcp:45199:8"/>Men. <hi>Marcus Cato</hi> was ſuch in War, that Men would have judg'd him to have been born amongſt Swords and Pikes; but if he had ap<g ref="char:EOLhyphen"/>plyed himſelf to his ſtudies, you would have thought that he had his Birth and Education amongſt Books. <hi>The moderate and ſolid ſpirit of</hi> Titus, <hi>ſays</hi> Tacitus, <hi>and the beauty of his coun<g ref="char:EOLhyphen"/>tenance, joyn'd with a certain Majeſty in his de<g ref="char:EOLhyphen"/>portment did augment his Fame and Reputation.</hi>
+                     </p>
+                  </div>
+                  <div n="2" type="section">
+                     <head>SECT II. <hi>Of his Forme.</hi>
+                     </head>
+                     <p>The comely Forme therefore of the Body, and the Beauty and Gravity of his Counte<g ref="char:EOLhyphen"/>nance, are great Ornaments to a States man. For although they fade either through ſickneſs, or length of time; yet what is beautiful pur<g ref="char:EOLhyphen"/>chaſeth Love, ſeeing external beauty carries the image of what is Divine: and though ſometimes a beautiful Nature lurks under an ignoble form, or a gallant ſpirit is hid in a de<g ref="char:EOLhyphen"/>formed Body, yet that is very rare. The beauty and comelineſs of <hi>Scipio Africanus</hi> was an admiration to the Ancient <hi>Spaniards.</hi> The due ſymmetry of parts in the Body is held in veneration, even amongſt the <hi>Barbarians;</hi> So that they eſteemed none capable of great actions, but ſuch as Nature had beautifi'd with an excellent perſon.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <pb n="8" facs="tcp:45199:9"/>
+                     <head>SECT. III. <hi>Of his Age.</hi>
+                     </head>
+                     <p>It will not be impertinent that the Age alſo of a Councellor be ſpoken of in this place, as another qualification; and what Age is moſt fitting for the managing Affairs of State. Youth is obnoxious to divers pleaſures and Luſts, to Paſſion, deſire of Command, Ambi<g ref="char:EOLhyphen"/>tion and Intemperance. Moreover young mens Underſtandings and Judgments are not ſo ſolid, their experience not ſo great as thoſe of riper years; their Authority leſs with the People, and are more eaſily enſnar'd with the Deceits of their Adverſaries: from whence, (and that not undeſervedly,) they are called Abortive States-men. <hi>It is forbidden,</hi> ſays <hi>Pliny</hi> writing to <hi>Trajane, that any aſſume the Name of Magiſtrate under Ten Years of Age.</hi>
+                     </p>
+                     <p>On the contrary, Old age is for the moſt part Timorous, Suſpicious, Incredulous, and Avaritious. The nearer a Man is to his Grave, he is for the moſt part the more anxious and fearful, is alſo more unable to undergo pains and troubles, and more forgetful; by which defects many occaſions are oft-times neglected; and his more talkative Nature, if there be any experience therein, is often turned into obſti<g ref="char:EOLhyphen"/>nacy.
+<pb n="9" facs="tcp:45199:9"/>For theſe Reaſons <hi>Ariſtotle</hi> diſapproved of young men, becauſe they were unexperi<g ref="char:EOLhyphen"/>enced, and old men becauſe they were unable.</p>
+                     <p>The middle Age therefore is moſt fit for Coun<g ref="char:EOLhyphen"/>cellors, which is from Thirty to Sixty. I do not deny but that there may be ſome Men fit for that employ both before and after that Age: But, according to <hi>Furius Coriolanus; It is better for men under Thirty Years, to go to famous <g ref="char:V">Ʋ</g>niverſities, to travel, to learn the Manners and Cuſtomes of Men and Nations, to know the Courts of Princes, and to follow the Camp; and for Men above Sixty, to begin to live to them<g ref="char:EOLhyphen"/>ſelves, to make uſe of what they have purchaſed by their virtue with eaſe and quietneſs, and to have a care of the health of their Souls only.</hi>
+                     </p>
+                  </div>
+                  <div n="4" type="section">
+                     <head>SECT. IV. <hi>Of the acquired Qualifications of a Coun<g ref="char:EOLhyphen"/>cellor.</hi>
+                     </head>
+                     <div n="1" type="subsection">
+                        <head>Subſect I. <hi>Of the Knowledge and Fear of God.</hi>
+                        </head>
+                        <p>Thus much of innate helps, and the Age of a Councellor. Acquired ones relate to thoſe things which are neceſſary to the right and happy Government of the Common-wealth. Amongſt which the Knowledge and Fear of God has the firſt place. For ſeeing Impiety doth eradicate all Fear of offending, and that the
+<pb n="10" facs="tcp:45199:10"/>Councils of the Wicked are fraudulent; It follows that the contempt of Religion doth bring the deſtruction of Publick Affairs. To omit, that it's God only, who gives Underſtand<g ref="char:EOLhyphen"/>ing, Fortitude, and Riches; who beats back the Violence of Enemies, and who gives Victo<g ref="char:EOLhyphen"/>ry and Glory to great Men: How I beſeech you, can he give Council in great matters, who has not his mind pure, and ſhining with Divine Splendour? For who are acceptable to God, are inſtructed with Divine Councils, and for that cauſe do ſeldom erre. That which even the Heathens did ſee, amongſt whom the Opinion of Religion, though ſuperſtitious and erroniouſly falſe, had great Authority. We are bound in our duty by no greater tye, than that of true Religion. As therefore the Common-good can be no ways ſeparated from Honeſty, no more can Honeſty be ſeparated from Re<g ref="char:EOLhyphen"/>ligion. And to conclude, according to <hi>Valerius Maximus; They are deceiv'd, ſays he, who teach that Men are kept in their Duty by Hu<g ref="char:EOLhyphen"/>mane Power, and not by the fear of Divine Ven<g ref="char:EOLhyphen"/>geance. The Councils of Men are puniſhed when they are preferred before thoſe of God.</hi>
+                        </p>
+                     </div>
+                     <div n="2" type="subsection">
+                        <head>Subſect. 2. <hi>Of Philoſophy.</hi>
+                        </head>
+                        <p>The ſecond help is Philoſophy, of which our Councellor ſhould not be ignorant, but eſpe<g ref="char:EOLhyphen"/>cially of ſuch as conſiſts in Action, to wit, the
+<pb n="11" facs="tcp:45199:10"/>Morals; neither would I have him ignorant of Natural Philoſophy, which conſiſts more in contemplation. It is unſeemly for a Miniſter of State, converſing often with great and learned Men, not to know the Natural cauſes of things, how thoſe Bodies do conſiſt which we call Elements, what Power or Force cauſ<g ref="char:EOLhyphen"/>eth Thunder and Lightning, what diſtinguiſh<g ref="char:EOLhyphen"/>eth the Rainbow with ſuch divers colours, what doth raiſe Winds, cauſeth Earthquakes, covers the Channels of the Earth continually with Waters, and the like.</p>
+                        <p>But let him be chiefly inſtructed in the Ma<g ref="char:EOLhyphen"/>thematicks, the firſt part whereof is Arithme<g ref="char:EOLhyphen"/>tick. For how can he without this underſtand Accompts of what is received and given out, if any time the charge of the Treaſury or Ex<g ref="char:EOLhyphen"/>chequer be committed to him.</p>
+                        <p>Geometry and Geography, without which Hiſtory cannot be well-underſtood, Lands cannot be divided, Camps cannot be pitched, Towns builded, Cities and Caſtles fortifi<g ref="char:EOLhyphen"/>ed, are alſo very needful for our Councellor.</p>
+                        <p>It's abſurd in thoſe having the adminiſtra<g ref="char:EOLhyphen"/>tion of the Common-wealth to be ignorant of thoſe things whereby the ſame doth ſubſiſt. Which <hi>Plato</hi> underſtood, when he pronounced that famous ſentence as from an Oracle, <hi>That Common-wealths ſhould be happy, when either Philoſophers did reign; or Princes did addict themſelves to Philoſophy.</hi>
+                        </p>
+                        <pb n="12" facs="tcp:45199:11"/>
+                        <p>
+                           <hi>There is not a more commendable part of Phi<g ref="char:EOLhyphen"/>loſophy,</hi> ſays Pliny
+<note n="*" place="margin">
+                              <hi>Epiſ.</hi> 2.</note> 
+                           <hi>than to do a pub<g ref="char:EOLhyphen"/>lick good, to know and do Juſtice, and to put in Practice what Philoſophers teach.</hi> This part of Philoſophy ſheweth what is ho<g ref="char:EOLhyphen"/>neſt, and what is not ſo, what is the end of good and evil; how a Family ſhould be go<g ref="char:EOLhyphen"/>vern'd; what the Power of the Father is, the Husband, and the Maſter; with what Virtues and Arts he ſhould be endued who governs; what the beſt form of Government is; by what means declining and falling Common<g ref="char:EOLhyphen"/>wealths are ſupported, and the beſt Precepts and Laws whereby they are moderated. <hi>Craſſus</hi> does affirm,
+<note n="*" place="margin">Apud Ci<g ref="char:EOLhyphen"/>ter. de O<g ref="char:EOLhyphen"/>rat.</note> 
+                           <hi>That he cannot be an Orator, who has not learned this part of Philoſophy.</hi> For every Orati<g ref="char:EOLhyphen"/>on ſhould be of thoſe things which we ought to do, or which we ought to ſhun; wherein ſee<g ref="char:EOLhyphen"/>ing all our duty doth conſiſt, it follows neceſſa<g ref="char:EOLhyphen"/>rily, that he who is ignorant thereof, ſhould want matter in his ſpeech. Therefore he deſervedly exclaims, <hi>O Philoſophy! the guide of Life, the ſearcher of Virtue, the baniſher of Vice,</hi> &amp;c.</p>
+                        <p>I know that the Opinion of the Vulgar is, that thoſe who in more mature Age are addict<g ref="char:EOLhyphen"/>ed to the ſtudy of Philoſophy, are Men given to Solitude, and without Experience, and therefore upon no account are fit for Affairs of Government; but they are deceived. For we do not ſpeak here of Philoſophy, which con<g ref="char:EOLhyphen"/>ſiſts
+<pb n="13" facs="tcp:45199:11" rendition="simple:additions"/>in the mere Idea's of the Mind, or of thoſe who without Judgment ſtudy the ſame, and are wiſe except in thoſe things wherein they ſhould be: But of ſuch who joyn Speculation with Practice. <hi>Helvidius Priſcus</hi> ſays, <hi>Tacitus</hi> being but very young, <hi>did apply his notable Ge<g ref="char:EOLhyphen"/>nius to the like Studies:</hi> he did not, as many, cloke their idleneſs with ſeeming generous pre<g ref="char:EOLhyphen"/>tences, but did follow the Teachers of Wiſ<g ref="char:EOLhyphen"/>dom, that he might be the more fortified a<g ref="char:EOLhyphen"/>gainſt the changes of Fortune, and the more able to ſhow himſelf in the Common-wealth. Being <hi>Quaeſtor</hi> he was choſen to be the Son in-Law of <hi>Paetus Thraſea;</hi> he was a good Citizen, Senator, Husband, Son-in-Law, Friend, and ſufficient in all the Duties of Humane Life; an hater of Riches, a maintainer of Equity, and conſtant in his Duty without fear. Which are the true Fruits of true Philoſophy.</p>
+                     </div>
+                     <div n="3" type="subsection">
+                        <head>Subſect. 3. <hi>Of his Knowledge of the Laws.</hi>
+                        </head>
+                        <p>In the next place I come to ſpeak of the knowledge of the Laws, which flows from this Fountain: for although the ſecret Coun<g ref="char:EOLhyphen"/>cils of Princes ſhould not be too much taken up with deciding of Controverſies; yet be<g ref="char:EOLhyphen"/>cauſe the Laws are the firm and ſure Foundati<g ref="char:EOLhyphen"/>ons of Common-wealths, it were abſurd, that a Councellor or Miniſter of Sate ſhould be ig<g ref="char:EOLhyphen"/>norant of them. <hi>Seeing you are moſt learned in
+<pb n="14" facs="tcp:45199:12"/>the Laws,</hi> ſays Pliny in a certain <hi>Epiſtle, where<g ref="char:EOLhyphen"/>of a Senator ſhould not be ignorant, I deſire to know from you, whether or not I did lately erre in the Senate; that I may be inſtructed, not for the by<g ref="char:EOLhyphen"/>paſt</hi> (for that's too late) <hi>but for the future, if the like fall out.</hi> It's oft-times needful to eſtabliſh new Laws, to puniſh Traitors and Am<g ref="char:EOLhyphen"/>bitious Conſpirators againſt the Prince and Common-wealth. Moreover when the right of any City, Sea-port, River or the like, are debated, from which great Wars do often proceed, by the Knowledge of the Laws, we are not only able to argue learn'dly concerning the thing controverted, but alſo to judge whe<g ref="char:EOLhyphen"/>ther the War made for ſuch a cauſe be juſt, or unjuſt.</p>
+                     </div>
+                     <div n="4" type="subsection">
+                        <head>Subſect. 4. <hi>Of his Knowledge of Hiſtory.</hi>
+                        </head>
+                        <p>But above all, the Knowledge of Hiſtory is moſt neceſſary in a Councellor. The Philo<g ref="char:EOLhyphen"/>ſopher does juſtly affirm, that things done are moſt profitable to conſultation. For future things fall often out like to thoſe which are by<g ref="char:EOLhyphen"/>paſt. Of which Hiſtory furniſheth us with ſuch abundance, that it is almoſt abſolutely neceſſary to the right Government of our Life, and to the good Aminiſtration of the Repub<g ref="char:EOLhyphen"/>lick. But many Readers and Authors them<g ref="char:EOLhyphen"/>ſelves go no farther than the bare Knowledge of the thing it ſelf. <hi>Thucydides,</hi> who may be juſtly called the Prince of Hiſtorians amongſt the
+<pb n="15" facs="tcp:45199:12"/>Grecians, doth notwithſtanding ſo ſuperficially run over that moſt famous War 'twixt the <hi>A<g ref="char:EOLhyphen"/>thenians</hi> and <hi>Lacedemonians,</hi> which was almoſt the deſtruction of both Conquerors and Con<g ref="char:EOLhyphen"/>quered, that he gives no other ſatisfaction to the Readers, but the ſimple relation of the thing it ſelf. But let Rulers of Common<g ref="char:EOLhyphen"/>wealths learn by the example of the <hi>Atheni<g ref="char:EOLhyphen"/>ans,</hi> to be quiet, ſo long as they can with Ho<g ref="char:EOLhyphen"/>nour and Security; ſeeing Arms ſhould be ta<g ref="char:EOLhyphen"/>ken up to defend, not to diſturb the publick Peace and Tranquillity. Let them not ſuffer themſelves to be carried away with the deſire of enlarging their Command, to the deſtructi<g ref="char:EOLhyphen"/>on of their Native Country. Let them not make ſtrange Wars their own with a note of Infamy, and by ſeeming to aſſiſt their Friends, make a way for their own ruine. If there doth any controverſie ariſe amongſt their friends, let them endeavour to reconcile ſuch rather by their Authority and Council, than by aiding the one party, which often proves Deſtructive to all.</p>
+                        <p>But let us come to the Writings of other Authors, who would demonſtrate that Prin<g ref="char:EOLhyphen"/>ces ought to be moderate, and to uſe that Pow<g ref="char:EOLhyphen"/>er over their Subjects which is limited by the Laws. For by the Subjects alienated affecti<g ref="char:EOLhyphen"/>ons no Power can long endure. So the Com<g ref="char:EOLhyphen"/>mand of one has been given to many, that the ſame might be the cauſe of the people's
+<pb n="16" facs="tcp:45199:13" rendition="simple:additions"/>ſafety of Glory, and not their Diſgrace and Deſtruction: ſuch and the like, one may ea<g ref="char:EOLhyphen"/>ſily gather out of the Hiſtory of <hi>Lucius Brutus.</hi>
+                           <note n="*" place="margin">
+                              <hi>Livius lib.</hi> 12.</note> He who will have the Ex<g ref="char:EOLhyphen"/>ample of an Excellent Prince, and of all the Vertues which adorn him, let him read the ſtory of <hi>Hieron</hi> King of <hi>Syracuſe.</hi>
+                           <note n="*" place="margin">
+                              <hi>Livius</hi> 23.24.</note> On the contrary who deſires to know the example of <hi>Ty<g ref="char:EOLhyphen"/>rants</hi> falling head-long, deſpiſing all Men, and every thing, having his Ears open to the flatteries of Courtiers, and ſhut to ſafe Councils, and the complaints of the miſerable; Let him behold the Sons-in-Law of this good Prince. If any deſire to know how much hurt a Woman can do, let him conſider what <hi>De<g ref="char:EOLhyphen"/>marata</hi> did with her Husband <hi>Andronedor.</hi> If there be great want in Treaſures, and that there can be no better way to help the ſame; Let him conſult <hi>Marcus Marcellus,</hi> and <hi>Valeri<g ref="char:EOLhyphen"/>us Levinus,</hi> who adviſed the Senate and Peo<g ref="char:EOLhyphen"/>ple of <hi>Rome</hi> to a contribution; but ſo as to begin with the Temples of their greateſt Gods; which had ſuch ſucceſs, that the Nobility bringing to the Treaſury, whatever Gold or Silver they had coyn'd, and uncoyn'd, with ſuch zeal to exceed each others Liberality, the <hi>Triumviri</hi> were not able to receive,
+<note n="*" place="margin">
+                              <hi>Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>k.</hi> 26.</note> nor the Clarks to write their Names.</p>
+                        <p>In reading therefore of Hiſtory, let a Coun<g ref="char:EOLhyphen"/>cellor not only obſerve the Narration of things
+<pb n="17" facs="tcp:45199:13"/>done, and their ſeveral Circumſtances; but alſo the Councils, Acts, and Events, wherefore that was done, and this omitted; wherefore ſome events were fortunate, others unfortu<g ref="char:EOLhyphen"/>nate: If any glorious act fall out, whether it was done through Chance and Fortune: or through Virtue and good Council: If any thing fall unhappily out, what could have prevented it; whether the fault was in the Captain, in the bad conduct of his Army, in the ordering of it, in his encamping, whereby he might have had an eaſie retreat, if routed, and if victorious, what was the cauſe of it, <hi>&amp;c.</hi> Let every one endeavour to know, ſays <hi>Li<g ref="char:EOLhyphen"/>vius,</hi>
+                           <note n="*" place="margin">In pre<g ref="char:EOLhyphen"/>fatione.</note> what were the Lives and Manners of thoſe Men, and the Means in Peace and in War, where<g ref="char:EOLhyphen"/>by they augmented their Dominions: but you may eaſily know by contraries: for a little after he ſays, <hi>Then Diſcipline and Order de<g ref="char:EOLhyphen"/>caying, and Ambition and Diſſenſion creeping in, they began to run head-long, until they came to our times, wherein we can neither ſuffer our own Vi<g ref="char:EOLhyphen"/>ces nor their Remedies.</hi>
+                        </p>
+                     </div>
+                     <div n="5" type="subsection">
+                        <head>Subſect. 5. <hi>Of Travel.</hi>
+                        </head>
+                        <p>It is alſo requiſite for our Councellor, to ſee divers Provinces, and famous Cities, to learn the Manners and Cuſtomes of many Nations; to know exactly their Harbours, Ports, Seas, and Rivers, to come to the Knowledge and
+<pb n="18" facs="tcp:45199:14"/>Converſation of great Men, to frequent the Courts of Princes, to know whether thoſe Provinces which he has ſeen are well fortifi'd; what Wars they have had in former times, and upon what occaſion. Let him alſo learn the Power of Neighbour Princes, that he may know whom to fear, and whom to truſt, with whom to enter into confederacy, and that ſo exactly, that none can deceive him with any falſe relation.</p>
+                        <p>Who doubts but that one ſo travel'd, con<g ref="char:EOLhyphen"/>verſing ſo long in the Courts of Princes, and frequenting the company of the Nobility emi<g ref="char:EOLhyphen"/>nent for their Virtue, is a more able Councellor, than one, who ſitting at home, knows no<g ref="char:EOLhyphen"/>thing what is done in forreign Nations. <hi>Li<g ref="char:EOLhyphen"/>vius</hi>
+                           <note n="*" place="margin">
+                              <hi>Li.</hi> 34.</note> obſerves that a certain Fa<g ref="char:EOLhyphen"/>vourite and intimate Councellor of King <hi>Antiochus</hi> being ignorant of Forraign Af<g ref="char:EOLhyphen"/>fairs, was the cauſe of his ruine by perſwading him to make War with the <hi>Romans.</hi>
+                        </p>
+                     </div>
+                     <div n="6" type="subsection">
+                        <head>Subſect. 6. <hi>Of his Eloquence.</hi>
+                        </head>
+                        <p>Seeing God has given to Man two moſt pe<g ref="char:EOLhyphen"/>culiar Properties in the one of which is the force of Underſtanding, and Judgment, which we call Reaſon, in the other the faculty of ſpeak<g ref="char:EOLhyphen"/>ing, it is not enough to underſtand aright and judge prudently, unleſs you can expreſs the ſame handſomely.</p>
+                        <pb n="19" facs="tcp:45199:14"/>
+                        <p>Therefore it's neceſſary that a Councellor be eloquent, and that he expreſs himſelf readily upon every ſubject and occaſion: For, it may ſometimes happen, that he may be ſent to o<g ref="char:EOLhyphen"/>ther Princes, or States to perſwade or diſſwade, to praiſe or accuſe, to congratulate or threaten, or to ſpeak to the vulgar to bring them from their fury to reaſon, and then a Councellor's Speech ought to be adorn'd with wiſe and grave ſentences; yet ſo as not to favour of too much affectation, but be accomodated to the ears of the hearers, and that his arguments and rea<g ref="char:EOLhyphen"/>ſons be not far-fetched. <hi>It's a good reward of great pains,</hi> ſays Quintilian
+<note n="*" place="margin">
+                              <hi>l.</hi> 10. <hi>c.</hi> 7.</note> 
+                           <hi>to have the faculty of ſpeaking readily and wittily.</hi> What is more effectual to allure the will, and move the mind, than Eloquence: But in ſuch caſes I do not commend a tedious and incohe<g ref="char:EOLhyphen"/>rent ſpeech, but ſuch as is ſuccinct and material. The ſhort Oration of <hi>Publius Valerius</hi> did bring the armed Roman Mul<g ref="char:EOLhyphen"/>titude to their wonted Obedience.
+<note n="*" place="margin">
+                              <hi>Valer. Max. l.</hi> 4.</note>
+                        </p>
+                        <p>
+                           <hi>Three things are enjoyn'd a Senatour,</hi> ſays Ci<g ref="char:EOLhyphen"/>cero, <hi>that he be preſent,
+<note n="*" place="margin">delegibus.</note> for when the Senate is full it has the more Authori<g ref="char:EOLhyphen"/>ty: that he ſpeak in due time, and that he ſpeak in few words, leſt he be burthenſom.</hi>
+                        </p>
+                        <p>I find that there are three ſeveral ways in giving of Councel, to wit, with Reaſon, Au<g ref="char:EOLhyphen"/>thority, and Example: which if joyn'd together muſt of neceſſity have great force.
+<pb n="20" facs="tcp:45199:15"/>Therefore if a Councellor do not approve of the matter propos'd, or of the Opinions of others who have given theirs before him, let him take heed that what he ſpeaks againſt the ſame may be able to prove it by valid and firm reaſons. And becauſe there are few who take it kindly that their Opinion ſhould be refuted, he muſt uſe all honour and reſpect in his words, and ſhun ſuch as are contentious. Neither let him give his Judgment as infallible, <hi>Matters in conſultation,</hi> (ſays the Philoſopher) <hi>are con<g ref="char:EOLhyphen"/>tingent, and may fall out other-ways: Therefore it's enough for him to ſatisfie his Conſcience. Pe<g ref="char:EOLhyphen"/>ricles</hi> before he ſpoke any thing in publick did always wiſh, <hi>that no word might eſcape him which was impertinent.</hi>
+                        </p>
+                     </div>
+                     <div n="7" type="subsection">
+                        <head>Subſect. 7. <hi>Of his Skill in Language.</hi>
+                        </head>
+                        <p>I add the knowledge of Languages, where<g ref="char:EOLhyphen"/>with Councellors ſhould be adorn'd, eſpecially of ſuch Countries, where his Prince either governs, or which he uſeth either as his Friends or Ene<g ref="char:EOLhyphen"/>mies. This knowledge is of great uſe for the bet<g ref="char:EOLhyphen"/>ter managing of Forraign Affairs. The ſpeech of one who uſeth an Interpreter can neither be ſo acceptable, nor ſo effectual: for thereby you can<g ref="char:EOLhyphen"/>not move the affections of Men, there being a certain Emphaſis of Speech and Grace in Acti<g ref="char:EOLhyphen"/>on, peculiar to the Expreſſions and Practice of each Nation, which not rightly diſtinguiſhed, may make ſo great and irreconcilable a breach;
+<pb n="21" facs="tcp:45199:15"/>as may poſſibly fruſtrate the intention of the conſultation. <hi>Themiſtocles</hi>
+                           <note n="*" place="margin">Plutar.</note> the moſt active Man of his time in <hi>Greece,</hi> and the moſt prudent in giving and taking Council, when he fled from <hi>Athens</hi> to the King of <hi>Perſia,</hi> would not declare his mind, before he had learned the <hi>Perſian</hi> tongue, that thereby he might be enabled to ſpeak to the King without an Interpreter, which he judg'd to be of no ſmall moment.</p>
+                     </div>
+                     <div n="8" type="subsection">
+                        <head>Subſect. 2. <hi>Of his Martial knowledge.</hi>
+                        </head>
+                        <p>And becauſe according to <hi>Cicero, all things are ſhrouded under the wings of Warlike virtue;</hi> Let a Councellor learn the Art of War, and underſtand the Order of Horſe and Foot, and the drawing up of an Army: Let him know the diſtances of Mountains and Valleys, and the ſcituation of Cities, <hi>&amp;c.</hi> What is more frequent in the Secret-council of Princes, than conſultations of War, of Armies, of Camps, Proviſions, Stratagems, of fortifying Towns, of repelling the ſudden incurſions of Neigh<g ref="char:EOLhyphen"/>bouring Enemies, and depopulations of Pro<g ref="char:EOLhyphen"/>vinces. There were none admitted of old into the <hi>Romane Senate,</hi> whoſe Vertue was not famous in Peace and War. <hi>Livius</hi> ſpeaks after this manner
+<note n="*" place="margin">
+                              <hi>lib.</hi> 3.9.</note> of <hi>M. P. Cato. The know<g ref="char:EOLhyphen"/>ledge of the Laws,</hi> ſays he, <hi>has ad<g ref="char:EOLhyphen"/>vanced one, eloquence another, and military ver<g ref="char:EOLhyphen"/>tue
+<pb n="22" facs="tcp:45199:16"/>the third. But this Man's Genius was fit for every imployment, that men would have thought he had been born for that particular affair he went about.</hi> Valiant of his hands, and famous in many ſignal fights, having thereby obtain'd great Honour, he was a brave General, great States-man, and good Orator.</p>
+                     </div>
+                  </div>
+               </div>
+               <div n="3" type="chapter">
+                  <head>CHAP. III. <hi>Of his Office or Duty.</hi>
+                  </head>
+                  <p>WE have ſpoken already of the Quali<g ref="char:EOLhyphen"/>fications of a Councellor, innate and acquired, now let us come to the Duty of a Councellor; which doth chiefly conſiſt in this, to love his Prince and Country with ſincere affection. It's nothing to know aright what is to be done, or to be eloquent therein, if the hatred of the Republick, or any wicked de<g ref="char:EOLhyphen"/>ſign obſtruct the candid expreſſion of his good Council.
+<note place="margin">Plutarch.</note> It was a Cuſtom of old amongſt the <hi>Athenians,</hi> that when the people in their Aſſemblies did conſult concerning the Common-wealth, the Herald with a loud voice did curſe him and his poſterity, who did give any bad or perni<g ref="char:EOLhyphen"/>cious Counſel, to the hurt or damage of his Country. It was the ſaying of a wiſe man,
+<pb n="23" facs="tcp:45199:16"/>
+                     <hi>That there was nothing more dangerous than a quick and ſubtile ſpirit, without fidelity and love to his Prince and Country. We ſhould,</hi> ſays <hi>A. riſtides</hi> to
+<note n="*" place="margin">Herodotus.</note> 
+                     <hi>Themiſtocles, not contend with private hatred, but whether of us can be more beneficial to our Country.</hi> Admirable was the conſtancy of af<g ref="char:EOLhyphen"/>fection which <hi>Fabius Maximus</hi> did ſhow to his. Being cheated by the publick of the money which he told down to <hi>Hannibal,</hi>
+                     <note n="*" place="margin">
+                        <hi>Li.</hi> 3. <hi>c.</hi> 8.</note> ſays <hi>Valerius Maximus,</hi> for the Redeeming of Captives, he did notwithſtanding hold his peace. The <hi>Se<g ref="char:EOLhyphen"/>nate</hi> did make, contrary to the Laws, <hi>Quintus Minutius,</hi> Maſter of the Horſe, equal to the <hi>Dictator,</hi> yet he was ſtill ſilent. Being more<g ref="char:EOLhyphen"/>over often injur'd, he remained ſtill the ſame man, and did not ſuffer himſelf to be angry at the Republick.</p>
+                  <p>A Counſellour ſhould therefore lay aſide ha<g ref="char:EOLhyphen"/>tred againſt his Adverſaries, favour towards his Friends, arrogancy in himſelf, and all pri<g ref="char:EOLhyphen"/>vate intereſts, if prejudicial to the publick good. <hi>All men,</hi> ſays <hi>Saluſt, who conſult of dubious matters, ought to be free from hatred, friendſhip, anger, and pity; for no man can both ſerve his own deſires and the publick good:</hi> And in another place, <hi>Let the mind,</hi> ſays he, <hi>in con<g ref="char:EOLhyphen"/>ſultations be free, obnoxious to neither crimes nor luſts.</hi> Why ſo? Becauſe it cannot be that one given to vice ſhould not favour the ſame.</p>
+                  <pb n="24" facs="tcp:45199:17"/>
+                  <p>Let the life therefore of a Councellor be good and juſt, which may ſerve as a rule to other Miniſters, and as an Example to his Prince. When at <hi>Sparta</hi> a certain vitious Fellow had given a good counſel, the people rejected it. But the <hi>Ephori</hi> did command a grave old man to give the ſame, as pouring it out of a dirty Veſſel into a clean one, that it might be accep<g ref="char:EOLhyphen"/>table to the multitude. Vertues and manners, ſays the Philoſopher, conduce much to per<g ref="char:EOLhyphen"/>ſwade. The foundation of perpetual commen<g ref="char:EOLhyphen"/>dation and good fame, is goodneſs, fidelity, and juſtice, without which nothing can be commendable. Let him not therefore be an ha<g ref="char:EOLhyphen"/>ter of good men, or a calumniator; let him not perſecute men with injurious words or actions publickly or privately.</p>
+                  <p>Truth alſo ſhould be ſtill in the mouth of a Councellor; for there is nothing more baſe than ſuch Councellors, who conceal the ſame from their Prince. But truth procureth hatred. What then? He deſerves not the name of a Councellor, who is afraid thereof. <hi>Who fears ha<g ref="char:EOLhyphen"/>tred too much knows not how to Govern,</hi> ſays <hi>Seneca.</hi> We may ſometimes not only bear and comply with the errours of our Prince, but alſo loving<g ref="char:EOLhyphen"/>ly cover the ſame, yet in publick Conſultati<g ref="char:EOLhyphen"/>ons the truth ſhould never be concealed. The contrary practice made <hi>Pliny</hi> complain, <hi>We ſee ſuch Courts,</hi> ſays he, <hi>wherein it's dangerous to ſpeak what we would, and diſgraceful to ſpeak
+<pb n="25" facs="tcp:45199:17"/>what we would not.</hi> And in another place he commends <hi>Trajan,</hi> becauſe he ſuffered his Councellors to give their opinions freely, and that the firſt was not approved, but the beſt. <hi>Antiſtius Labeo</hi> told <hi>Auguſtus, that every one ought to give their opinion freely, and without fear in the Senate.</hi> What doth it ſignifie, to be knowing and experienced in Affairs, and to nouriſh good endeavours, and the deſire of well-doing, if the alacrity of the mind be wanting to expreſs the ſame when occaſion occurs; or if fear, ſuſpicion, or any other im<g ref="char:EOLhyphen"/>pediment obſtruct the free and ſincere declara<g ref="char:EOLhyphen"/>tion of the heart.</p>
+                  <p>But if any be found of a timorous ſpirit he ſhould be encouraged by his Prince; for good Princes ought to ſtir up and animate their Councellors to ſpeak freely, and to declare unto them that they (Princes) only ſeek what is conducing to the publick pro<g ref="char:EOLhyphen"/>fit
+<note n="*" place="margin">Paleot.</note>, and to hear their opinions with attention, and a pleaſant counte<g ref="char:EOLhyphen"/>nance. Who doubts but that the freedom of good counſel is obſtructed when the Prince is angry, and does manifeſt that he hears more willingly what pleaſeth than what is profita<g ref="char:EOLhyphen"/>ble. <hi>The ſafety of that Prince,</hi> ſays the Hi<g ref="char:EOLhyphen"/>ſtorian, <hi>is deſperate, to whom what is profitable is harſh, and who hears nothing with patience but what is ſmoothing.</hi> VVhen it was debated in the <hi>Roman</hi> Senate, whether the Corn brought
+<pb n="26" facs="tcp:45199:18"/>from <hi>Sicily</hi> ſhould be given <hi>gratis,</hi> or ſold for a ſmall price to the Common-people: <hi>Corio<g ref="char:EOLhyphen"/>lanus</hi> ſtood up, and told
+<q>That they ought not to have any thing by way of Gift, that there<g ref="char:EOLhyphen"/>by they ſhould be the more petulant and laſci<g ref="char:EOLhyphen"/>vious; that it was better to hold them low with want and penury, whereby they would of neceſſity be more modeſt, and more ready to go about their duty; that thereby they ſhould employ themſelves
+<note n="*" place="margin">
+                           <hi>Dionyſ. Halicar. l.</hi> 7. <hi>Liv. l.</hi> 2. <hi>Plin de Vi<g ref="char:EOLhyphen"/>ris illuſt.</hi>
+                        </note> with manuring their Lands, and not with raiſing and ſomenting ſeditions, and that idleneſs and luxury which proceeds from abundance would make the Laws contemned.</q> A no<g ref="char:EOLhyphen"/>ble and Ariſtocratical opinion, but not at all popular. Therefore the <hi>Tribunes</hi> who heard the ſame in the Senate, did relate it to the people, by whom incontinently a day is appointed to <hi>Coriolanus.</hi> But he did eaſily free himſelf of his accuſation, though the peo<g ref="char:EOLhyphen"/>ple were very much incenſed againſt him. They acknowledged that <hi>Coriolanus</hi> had done no<g ref="char:EOLhyphen"/>thing but his duty. VVhere is there any li<g ref="char:EOLhyphen"/>berty of ſpeaking, if not in deliberations and giving of counſel? King <hi>Lyſimachus</hi> did ſhow great favour to <hi>Philippides</hi> the <hi>Athenian,</hi> be<g ref="char:EOLhyphen"/>cauſe he did ſpeak freely and ſincerely, and did lead a good and honeſt life, free from adulation. <hi>Hieron</hi>
+                     <note n="*" place="margin">Plin.</note> uſed to ſay, <hi>That there was no man trouble<g ref="char:EOLhyphen"/>ſome
+<pb n="27" facs="tcp:45199:18"/>to him who ſpoke freely. Severus</hi> did not only ſhew himſelf courteous and affable to all men, but he deſired them alſo to ſpeak free<g ref="char:EOLhyphen"/>ly what they thought, and would argue with them without diſdain
+<note n="*" place="margin">Aelius Lam<g ref="char:EOLhyphen"/>prid. in Alex.</note> or bitter<g ref="char:EOLhyphen"/>neſs. <hi>Meſſala Valerius</hi> being en<g ref="char:EOLhyphen"/>quired by <hi>Tiberius</hi>
+                     <note n="†" place="margin">
+                        <hi>Tacit. lib.</hi> 1. <hi>annal.</hi>
+                     </note>, whether he did give his opinion by his com<g ref="char:EOLhyphen"/>mand or not, did anſwer that it was of his own accord, and that he would never uſe an other Opinion than his own, in things belonging to the Common-wealth. And I would adviſe a Prince not to truſt thoſe who uſe to praiſe
+<note n="†" place="margin">
+                        <hi>Tacit lib.</hi> 2. <hi>annal.</hi>
+                     </note> what is either good or bad in him.</p>
+                  <p>But here a Councellor ought to ſhun two extremes: The one leſt he confound his free<g ref="char:EOLhyphen"/>dom of ſpeech with boldneſs and immodeſty, which comes to paſs, when any obſtinate in their own opinion, under colour of freedom, doth reflect on others, which ought rather to be called petulancy, than ingenious and inno<g ref="char:EOLhyphen"/>cent freedom. <hi>For that which is innocent has on<g ref="char:EOLhyphen"/>ly regard to the publick good,</hi> ſays <hi>Tacitus.</hi> The other is, leſt under pretext of well-doing he fall into plain flattery. We ſhall find an Ex<g ref="char:EOLhyphen"/>ample of ſuch adulation in <hi>Plutarch.</hi> Hear, O <hi>Tiberius</hi>
+                     <note n="*" place="margin">De deſcrip. a<g ref="char:EOLhyphen"/>micorum &amp; a<g ref="char:EOLhyphen"/>dulator.</note> 
+                     <hi>Caeſar,</hi> for what we do all tacitly reprehend you, though no man dare do it pub<g ref="char:EOLhyphen"/>lickly; you deſtroy your body
+<pb n="28" facs="tcp:45199:19"/>with continual cares for the Republick. Be<g ref="char:EOLhyphen"/>hold the flattery of ſome baſe paraſite, to a Bloody Tyrant.</p>
+                  <div n="1" type="section">
+                     <head>SECT. I. <hi>Of his Attention and Diligence.</hi>
+                     </head>
+                     <p>It is alſo requiſite for a Councellor to give an attentive ear, to what-ever is ſpoken in Coun<g ref="char:EOLhyphen"/>cil, and by what arguments they confirm their Opinion, leſt he erre in his anſwers: which <hi>Lycurgus</hi> deſiring to ſhow, of what moment this was, commanded there ſhould be no pictures in Councel-rooms, leſt the thoughts of Councellors ſhould be diverted; but that they might be wholly taken up with what they had in hand.</p>
+                     <p>Out of Council let him be diligent in medi<g ref="char:EOLhyphen"/>tating, reading, arguing, and conſidering the end of every thing, every circumſtance, and the various contingencies in humane actions; which is a practical knowledge, and very pro<g ref="char:EOLhyphen"/>fitable in the adminiſtration of Affairs.
+<note n="*" place="margin">Plut. in mo<g ref="char:EOLhyphen"/>ral.</note> It is moſt requiſite in our Councellor to uſe this ex<g ref="char:EOLhyphen"/>act diligence in conſultations, that he may con<g ref="char:EOLhyphen"/>jecture by obſerv'd experiments what is the e<g ref="char:EOLhyphen"/>vil conſequence of every bad deliberation, and what are the cauſes of obſtructions, which
+<pb n="29" facs="tcp:45199:19"/>may be found out by a diligent foreſight:</p>
+                     <p>And ſeeing many inconveniences do ariſe from his ignorance of that Common-wealth wherein he ſerves, and whereof he has the care; it is requiſite that he know the leaſt thing belonging thereto, but eſpecially ſuch as pertain to the commnnd in which he is: Let him conſider the nature of his own and Neigh<g ref="char:EOLhyphen"/>bouring People. Some things are to be re<g ref="char:EOLhyphen"/>garded in an old and firmly ſettled Common<g ref="char:EOLhyphen"/>wealth, which is not ſo much expos'd to En<g ref="char:EOLhyphen"/>vy and Sedition; and other things are more properly to be regarded in a new ill-grounded one.</p>
+                     <p>He ſhould alſo know the nature of the Prince and Court, thereby to underſtand per<g ref="char:EOLhyphen"/>fectly the diſpoſitions of other Miniſters and Councellors, what the Command of the Prince is, what Provinces, Cities, Towns, and Forts are under his Subjection, the Scitu<g ref="char:EOLhyphen"/>ation of Places, <hi>&amp;c.</hi> What is controverted in the Principality, with whom, and for what cauſes, wherein the People are moſt de<g ref="char:EOLhyphen"/>lighted, by what they are fuſtain'd, how they are affected toward their Prince, what the cuſtomes and ſubſidies of the people are, what are imported and exported; what his Treaſury is, whether his Subjects are oppreſſ<g ref="char:EOLhyphen"/>ed with Taxes or other Burthens; whether they are rich or poor, what number of Souldi<g ref="char:EOLhyphen"/>ers can be raiſed in particular Provinces;
+<pb n="30" facs="tcp:45199:20"/>what Leagues, Affinities, and Confederacies his Prince has with other Nations, what can be expected thereby. And finally, let him con<g ref="char:EOLhyphen"/>fer all his ſtudy, care, thoughts and diligence, in every thing, which neglected, might prove detrimental to the Republick. <hi>Who knew the Nature of the Vulgar,</hi> ſays Taci<g ref="char:EOLhyphen"/>tus,
+<note n="*" place="margin">
+                           <hi>Lib.</hi> 2. <hi>hiſt.</hi>
+                        </note> 
+                        <hi>and the Inclinations of the Senate, were eſteemed knowing and wiſe Men.</hi>
+                     </p>
+                     <p>It's the part alſo of a vigilant and dili<g ref="char:EOLhyphen"/>gent Councellor, to catch hold of any ſuddain occaſion. Wherefore we ſee great men have come to that greatneſs by prudently laying hold of good occaſions. The Popes of <hi>Rome</hi> uſed to implore the aid of the <hi>Conſtantinopoli<g ref="char:EOLhyphen"/>tan Emperors,</hi> upon any eminent danger from a Forreign Enemy, for whoſe negligence <hi>Charles</hi> the great was called by Pope <hi>Leo</hi> the
+<note n="*" place="margin">
+                           <hi>Paulus Emt<g ref="char:EOLhyphen"/>lius lib.</hi> 2.</note> third, and he by knowing pru<g ref="char:EOLhyphen"/>dently to lay hold on the occaſi<g ref="char:EOLhyphen"/>on, and taking the patronage of the Roman Church upon him, did purchaſe the Empire to himſelf and his poſterity. Upon the like accompt the <hi>French,</hi> at the inſtigation of the Pope of <hi>Rome,</hi> did become Maſters of the Kingdom of <hi>Naples</hi> and <hi>Sicily. Alphonſus</hi> King of <hi>Arragon</hi> being call'd to the Kingdom of <hi>Naples</hi> by Queen <hi>Johanne,</hi> and he not neglecting ſo good an oc<g ref="char:EOLhyphen"/>caſion, did obtain that Kingdom with the
+<pb n="31" facs="tcp:45199:20"/>great applauſe of the <hi>Neopolitanes,</hi> and con<g ref="char:EOLhyphen"/>ſent of the Pope. There could be more ex<g ref="char:EOLhyphen"/>amples produc'd: but let theſe ſuffice to excite the diligence of a Councellor, to lay hold on occaſions, where great prudence is needful.</p>
+                     <p>But it may be inquir'd in this place, whether a Councellor or Miniſter of State ought to be ſo diligent, that he is oblig'd to give his Council to his Prince, although he be not required thereto. The inveterate Cuſtom of requiring counſel doth move the doubt, becauſe this man who intrudes himſelf in giving the ſame ſeems cu<g ref="char:EOLhyphen"/>rious, and would have his prudence eſteemed greater than either that of his Prince, or the reſt of his fellow. Miniſters. As it is not the part therefore of a prudent Phyſician, to in<g ref="char:EOLhyphen"/>trude himſelf to a ſick perſon, not being call<g ref="char:EOLhyphen"/>ed, ſo neither that of a Counſellor to a Prince. But notwithſtanding this, the more learned do think, that in matters of great moment, when neceſſity urgeth, he may ſpeak, although not required, for the publick good; and there is no doubt but that this was obſerved by the <hi>Romane Senators. Is it not granted,</hi> ſays Scap<g ref="char:EOLhyphen"/>tius <hi>to the Conſuls, to ſpeak for the good of the Republick;</hi> Which notwithſtanding will be the more ſeaſonable and fortunate, if a Coun<g ref="char:EOLhyphen"/>cellor examine diligently his Council which he is to give, leſt he ſhould be deceived, which would be ridiculous; and then all circumſtan<g ref="char:EOLhyphen"/>ces, whether he has ſpoken formerly upon the
+<pb n="32" facs="tcp:45199:21"/>like accompt to his Prince, whether Time, Place, or the State of Affairs do require it, whether it can more opportunely be deferred, whether he himſelf be acceptable and in favour with his Prince; or whether he thinks that it can be done more effectually by another, whether others did make tryal of the like, and with what ſucceſs. Another Queſtion may a<g ref="char:EOLhyphen"/>riſe in this place; Whether a Councellor know<g ref="char:EOLhyphen"/>ing ſome what to be done in the Council unto which he cannot aſſent with a ſafe Conſcience may keep himſelf at home that day, without being defective in his Duty? The doubt is, becauſe it's better not to come, than be forc'd to aſſent to a bad Council. But the contrary is clear from the former queſtion: for if I am obliged to give my Council to my Prince, though not required, for the Publick good; much leſs can I ſhun asking. It is ſo far therefore, from being a lawful ex<g ref="char:EOLhyphen"/>cuſe, that on the contrary it obligeth a Coun<g ref="char:EOLhyphen"/>cellor * the more to be preſent that Day.
+<note place="margin">
+                           <hi>Paleot.</hi> 5.4.8.</note> The occaſion of more weighty and difficult Af<g ref="char:EOLhyphen"/>fairs diſtinguiſheth true Councellors from o<g ref="char:EOLhyphen"/>thers; for the former, the more dangerous buſineſs are, the more do they prepare them<g ref="char:EOLhyphen"/>ſelves for ſuch, for the good of the Repub<g ref="char:EOLhyphen"/>lick. The other do withdraw, when the leaſt Dangers or Difficulties do ariſe. It was written above the Gate of the Roman
+<pb n="33" facs="tcp:45199:21"/>Senate-houſe,
+<note n="*" place="margin">Cieere de le<g ref="char:EOLhyphen"/>gibus.</note> 
+                        <hi>Senatori qui nec aderit, aut cauſa, aut culpa, eſto. Plutarch</hi> ſays of <hi>Cato</hi>
+                        <note n="†" place="margin">in ejus vita.</note>, <hi>that he came always to the Senate. He was afraid leſt any thing ſhould have been done through favour in his abſence. It's the part of a good Senator,</hi> ſays Cicero, <hi>to be always preſent in the Senate.</hi> Should he deſerve the name of a Souldier, who being commanded to fight would ſhun the ſame for any evident danger. Neither let it move a Councellor that he himſelf only ſhall be of his own Opinion, and there<g ref="char:EOLhyphen"/>fore that his coming to Councel ſhall be to no effect: For beſides, that this is no lawful ex<g ref="char:EOLhyphen"/>cuſe for his abſence, How oft I pray you do we ſee, that one has drawn all the reſt of dif<g ref="char:EOLhyphen"/>ferent Opinions to his, by the ſtrength of Rea<g ref="char:EOLhyphen"/>ſon and Arguments; but granting that it were; not ſo, yet it will be ſufficient that he has done his Duty.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <head>SECT. II. <hi>Of his Secreſie.</hi>
+                     </head>
+                     <p>That which next belongs to the Duty of a Councellor is, that upon no accompt he divulge any ſecret commited to him: for if it be hateful to reveal the Secret of a Friend, in a private perſon; how much more is it in a Miniſter of
+<pb n="34" facs="tcp:45199:22"/>State to divulge the Councels or Determinati<g ref="char:EOLhyphen"/>ons of his Prince, contrary to his own fideli<g ref="char:EOLhyphen"/>ty. The Law of the <hi>Egyptians</hi>
+                        <note n="*" place="margin">
+                           <hi>Diodor. Sicu<g ref="char:EOLhyphen"/>lus lib.</hi> 38.</note> did command that Man's Tongue to be cut out, who did detect the Secrets of the Common<g ref="char:EOLhyphen"/>wealth. I ſay Secrets; for there are ſeveral matters handled in Councels, which are not ſo, as the reformation of Manners, the puniſhment of Vice and Impiety: from the relation of which there is neither ſcandal nor hurt to be feared. <hi>Tully</hi> gives this excellent commenda<g ref="char:EOLhyphen"/>tion of <hi>Cato: That there was never word eſcap'd him, whereof he had reaſon to be ſorry afterward.</hi> We read that <hi>Quintus Fabius Max.</hi>
+                        <note n="*" place="margin">
+                           <hi>Waler. Max. lib.</hi> 2. <hi>cap.</hi> 1.</note> was reproved by the <hi>Conſuls</hi> in very ſharp words, for ſpeaking ſomething concerning the third <hi>Punick War,</hi> which being reſolv'd upon in the <hi>Senate</hi> ſecretly, was to be declar'd ſhortly after. The conſtancy of <hi>Pompey</hi> was admirable
+<note n="†" place="margin">
+                           <hi>Val. Max. lib.</hi> 3. <hi>c.</hi> 3,</note>, who being Embaſſa<g ref="char:EOLhyphen"/>dor, was intercepted by King <hi>Gentius,</hi> and being commanded to reveal the deſigns of the <hi>Romane Senate,</hi> did hold his finger to a burn<g ref="char:EOLhyphen"/>ing Torch, by which conſtancy the King de<g ref="char:EOLhyphen"/>ſpairing to extort any thing from him by tor<g ref="char:EOLhyphen"/>ments, did inſiſt no farther thereon.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <pb n="35" facs="tcp:45199:22"/>
+                     <head>SECT. III. <hi>Of his Fortitude.</hi>
+                     </head>
+                     <p>From this laſt example it doth appear, that a Councellor ought to have a bold and undaunt<g ref="char:EOLhyphen"/>ed courage, leſt he be afraid of offending a<g ref="char:EOLhyphen"/>ny, when he is about his Duty. <hi>There is no<g ref="char:EOLhyphen"/>thing more pernicious in a Common-wealth, than ſuch a Councellor</hi>
+                        <note n="*" place="margin">Oſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r de Reg<g ref="char:EOLhyphen"/>num inſtitnm.</note> 
+                        <hi>who is timo<g ref="char:EOLhyphen"/>rous, who ſhuns pains and dili<g ref="char:EOLhyphen"/>gence, and who too much fears his Life and Fortune.</hi> Who is not diligent doth make no progreſs in Affairs, he prolongs them, or leaves the adminiſtrati<g ref="char:EOLhyphen"/>on thereof to wicked Men, and doth accu<g ref="char:EOLhyphen"/>mulate buſineſs upon buſineſs; who fears dan<g ref="char:EOLhyphen"/>gers doth confirm the boldneſs of his Enemies. <hi>The Councels of timorous men,</hi> ſays Tacitus,
+<note n="†" place="margin">
+                           <hi>Lib.</hi> 3. <hi>an nalium.</hi>
+                        </note> 
+                        <hi>are uncertain. Metellus</hi> per<g ref="char:EOLhyphen"/>ceiving the deſigns of the <hi>Tri<g ref="char:EOLhyphen"/>bunes</hi> of the people, and with what danger they would burſt out to the prejudice of the Common-wealth, choſe rather to be exil'd, than conſent to their Laws. <hi>Can any Man be called more conſtant than this Man,</hi> ſays Valerius Maximus, <hi>who leſt he ſhould have been forc'd to recal his Opinion, ſuffered himſelf rather to be baniſh'd his Country,
+<pb n="36" facs="tcp:45199:23"/>wherein he had obtain'd the greateſt degree of ho<g ref="char:EOLhyphen"/>nour? Sylla</hi> did enter <hi>Rome</hi> armed and con<g ref="char:EOLhyphen"/>veening the <hi>Senate</hi> was very inſtant, that <hi>Marius</hi> ſhould be declar'd an Enemy, and when none durſt withſtand him, only <hi>Scaevola</hi> would not aſſent thereto: <hi>although</hi> ſays he, <hi>you threaten me with Legions of Souldiers, with whom you have already ſurrounded the Senate<g ref="char:EOLhyphen"/>houſe, or with Death it ſelf, yet ſhall you not make me declare</hi> Marius <hi>an Enemy, who ſaved</hi> Rome <hi>and all</hi> Italy <hi>from apparent ruine.</hi> He is not a Man of any Fortitude whoſe courage doth not grow amidſt the greateſt dangers.</p>
+                     <p>Yet notwithſtanding we ought not to be forgetful of the reverence due to our Prince: For to give due obſervance and reverence to him, and to be punctual in our Duty without fear, are not inconſiſtent.</p>
+                     <p>But what we have ſpoken of Conſtancy, is not ſo to be underſtood, that a Councellour may not ſometimes change his Opinion upon any good emergent cauſe. It is fitter to change for the better, than inſiſt in what is badly begun. Neither needs he fear the blame of Levity: <hi>For no learned Man,</hi> ſays Cicero, <hi>will call that unconſtancy.</hi> And in another place, he ſays, that a conſtant obſtinate perſeverance in one Opinion was never commendable in great States-men.</p>
+                  </div>
+                  <div n="4" type="section">
+                     <pb n="37" facs="tcp:45199:23"/>
+                     <head>SECT. IV. <hi>Of his Temperance.</hi>
+                     </head>
+                     <p>HOW neceſſary a vertue this is, will appear from the advantages and bene<g ref="char:EOLhyphen"/>fits acquired by the due obſervance of it; for ſhe alone, <hi>(like a skilful Pilot)</hi> keeps us ſteady in the tempeſtuous occurrences of weighty matters, and makes every faculty of our Souls officious in their ſubſerviency to Reaſon, without which the Soul (as a Bark becalm'd at Sea) ſuffers a vertigo, by the ſuddain ſtop of her progreſs; and having loſt her rudder rowles too and fro in a in a fantaſtick motion, till ſhe become drunk with the agitation which has lull'd her functions aſleep in vitious ſtupidity, and made her wholly uſeleſs.</p>
+                     <p>How difficult a Vertue this is, may be col<g ref="char:EOLhyphen"/>lected from ſo numerous a variety of objects of repugnant natures both exterior and inte<g ref="char:EOLhyphen"/>rior, which continually invade the ſenſual fa<g ref="char:EOLhyphen"/>culties of the ſoul to embrace them, affording indeed ſuch ſtrong Temptations, as no inter<g ref="char:EOLhyphen"/>miſſion can well afford him time to deliberate on the refuſal.</p>
+                     <p>We would adviſe therefore our Councellor in the firſt place, to ſhun Envy and Ambition, as more eſpecially coincident to the corruption
+<pb n="38" facs="tcp:45199:24"/>of his Miniſtry. For ſuch infected with thoſe two vices, cannot but have more regard to their own ends, than to the Honour of their Prince and good of their Country, and are oft-times the cauſe of their own, and Coun<g ref="char:EOLhyphen"/>tries deſtruction, of which Hiſtory furniſheth us with almoſt innumerable examples.</p>
+                     <p>In the next place it belongs alſo to the Duty of a Councellor, to ſhun Avarice and ſtudy Li<g ref="char:EOLhyphen"/>berality. As Avarice is the root of all evil, ſo Charity and Beneficence is the root of all good. <hi>You ſhall do a great good,</hi> ſays Saluſt <hi>to your Country, your ſelf, and to all mankind, if you eradicate, or if that be not poſſible, you leſſen the deſire of riches: For where that takes poſſeſſion, neither Diſcipline, good Arts, nor a good Genius have any force.</hi> And a little after: <hi>But Ava<g ref="char:EOLhyphen"/>rice is a cruel and intolerable wild Beaſt, which destroys Cities, Lands, Houſes, yea and the very Temples of the Gods, mixeth what is Di<g ref="char:EOLhyphen"/>vine with Humane, and neither Arms nor Walls do hinder it from penetrating. Marcus Craſſus</hi> was the moſt noble, moſt eloquent, moſt learned in the Laws; was Chief-Prieſt, and the richeſt of all the Romans next to <hi>Sylla.</hi> But inſatiable Avarice did obſcure thoſe ver<g ref="char:EOLhyphen"/>tues. <hi>If the deſire of private gain,</hi> ſays De<g ref="char:EOLhyphen"/>moſthenes, <hi>do not obſtruct the publick good, it is in ſome meaſure tolerable for Councellors to be rich: but becauſe we ſee for the moſt part, how much a Miniſter of State increaſeth in riches,
+<pb n="39" facs="tcp:45199:24"/>ſo much is the Common-wealth depauperated.</hi> Let a Councellor therefore beware of too much deſire of gain, for his too weighty Coffers are often the cauſe of his own deſtruction,</p>
+                     <p>Let him alſo ſhun Prodigality as much as Avarice. <hi>Make uſe of ſuch Councellors,</hi> ſays Baſilius,
+<note n="†" place="margin">
+                           <hi>King</hi> James <hi>to his Sonnc Prince</hi> Henry <hi>in his</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</note> 
+                        <hi>who have governed their own Eſtate well; for how can one truſt another with his E<g ref="char:EOLhyphen"/>ſtate, who never knew to manage his own aright. Great circum ſpection is to be us'd in Liberality, ſays</hi> Cicero. Our riches ſhould not be ſo cloſely ſhut up, that benignity cannot open them: nor always ſo unlock'd as to be open upon e<g ref="char:EOLhyphen"/>very occaſion to all.</p>
+                  </div>
+                  <div n="5" type="section">
+                     <head>SECT. I. <hi>Of his Curteous and Affable Deportment.</hi>
+                     </head>
+                     <p>But Meekneſs, Courteſie, Piety, Bene<g ref="char:EOLhyphen"/>volence towards our Neighbour, and Hoſpi<g ref="char:EOLhyphen"/>tality, are the Concomitants of Liberality. Let therefore a Councellor be of eaſy acceſs, let him encourage the baſhful and timorous; let him hear Strangers with Patience and Civi<g ref="char:EOLhyphen"/>lity, and let not the reaſonable requeſts of any be troubleſom to him. By which procedure he ſhall not only do his Duty, but alſo ob<g ref="char:EOLhyphen"/>tain
+<pb n="40" facs="tcp:45199:25"/>the good will of all Men. <hi>Marcus Craſſus</hi> was much commended
+<note n="†" place="margin">Plutar. in Craſſo.</note> be<g ref="char:EOLhyphen"/>cauſe he did not refuſe any Ci<g ref="char:EOLhyphen"/>tizen at any time his Patronage; was affable and civil to all, and only of all Men, made Avarice popular.</p>
+                     <p>Great Men uſe to be touch'd with the de<g ref="char:EOLhyphen"/>ſire of Glory above meaſure, from whence Pride and the contempt of others do proceed. <hi>A contemning Spirit and Pride,</hi> ſays Saluſt,
+<note n="†" place="margin">De Bello Ju<g ref="char:EOLhyphen"/>gur.</note> 
+                        <hi>are the Common-evils of the Nobility.</hi> Therefore I would have a Councellor think fre<g ref="char:EOLhyphen"/>quently,
+<note n="†" place="margin">
+                           <hi>Tacitus lib.</hi> 4. <hi>hiſt.</hi>
+                        </note> that all things belong<g ref="char:EOLhyphen"/>ing to Mortals are unconſtant, and that the more he has ob<g ref="char:EOLhyphen"/>tain'd, the more uncertain he is therein: that Modeſty and Humility ought not to be con<g ref="char:EOLhyphen"/>temned by the greateſt of Men; and that God is a lover of Humility and an hater of Pride and Arrogance. If you would meaſure your own ſhadow, ſays <hi>Archidamus</hi> to King <hi>Philip,</hi> who did write proudly and arrogantly to him, after his Victory at <hi>Chaeronea,</hi> you ſhall not find it one hair greater than before your Victo<g ref="char:EOLhyphen"/>ry.</p>
+                  </div>
+               </div>
+               <div n="4" type="chapter">
+                  <pb n="41" facs="tcp:45199:25"/>
+                  <head>CHAP. IV. <hi>Of the Prudent Deportment of Princes in Councels.</hi>
+                  </head>
+                  <p>BUT becauſe it is not ſufficient to give prudent Councel, unleſs the Prince make uſe of it, and it is as great Wiſdom, amongſt the divers Councels of many to diſcern and put in execution what are beſt, as to give Councel aright; for, according to <hi>Cicero, there is prudence required as well in taking, as in giving Councel.</hi> It comes often to paſs, that Princes are deceived, to the great prejudice of the Republick, who attribute too much to themſelves and their own opinion. <hi>Ptolomy</hi> King of <hi>Aegypt,</hi> having left <hi>Alexandria</hi> upon ſome controverſie
+<note n="†" place="margin">Plutar. in Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>one.</note> with his Sub<g ref="char:EOLhyphen"/>jects, did come to <hi>Rome</hi> to be re<g ref="char:EOLhyphen"/>ſtored to his Kingdom by <hi>Pompey</hi> and <hi>Caeſar.</hi> Having conſulted <hi>Cato</hi> touching this matter, he was freely and ingeniouſly re<g ref="char:EOLhyphen"/>prehended by him for deſerting ſuch happi<g ref="char:EOLhyphen"/>neſs, and objecting himſelf to the affronts, briberies, and avarice of the Roman Nobility, and adviſed to regain the favour of his ſub<g ref="char:EOLhyphen"/>jects. But one day waiting long at the Gates of one of the Senators, he did lament his in<g ref="char:EOLhyphen"/>conſiderate
+<pb n="42" facs="tcp:45199:26"/>enterpriſe, and that he had refuſ<g ref="char:EOLhyphen"/>ed the advice of ſo good a Man. <hi>Hannibal,</hi> when he fled to King <hi>Antiochus,</hi> did adviſe him to make <hi>Italy</hi> the Seat of the War, which he neglected: But being o'recome by the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> he confeſſed too late that <hi>Hannibal</hi> had rightly foreſeen, what was abſolutely neceſſa<g ref="char:EOLhyphen"/>ry to have been done. <hi>I have oft-times heard,</hi> ſays Livius,
+<note n="†" place="margin">
+                        <hi>Lib.</hi> 36.</note> 
+                     <hi>that he is the firſt Man who councels aright; that he is the next who can accept, or make uſe of a good Councel; and that he is the laſt of all who can neither give nor receive the ſame.</hi> But becauſe to be firſt is deni'd us, let us endeavour to be ſecond, and whilſt we learn to command, let us reſolve to obey the Council of prudent men.</p>
+                  <p>But ſometimes Princes are doubtful, timo<g ref="char:EOLhyphen"/>rous, and as <hi>Caeſar</hi> ſays, <hi>every thing fails them, and ſo not having their Judgment clear, they are deceived, and brought to inconveniences.</hi> Which <hi>Guiceiardin</hi> did obſerve in <hi>Peter de Medices</hi> ſeeking Council and Advice from the <hi>Veneti<g ref="char:EOLhyphen"/>ans,</hi> who endeavoured therein to ſerve their own ends. Alſo the Council of <hi>Ludovick Sforce</hi> may be obſerved, whereby he moved the <hi>French</hi> King to undertake that <hi>Neopolitane</hi> ex<g ref="char:EOLhyphen"/>pedition againſt the <hi>Arragons.</hi>
+                  </p>
+                  <p>Great Judgment therefore is needful, not only in chooſing Councellors, whether they are ſo qualified as we have ſpoken of formerly,
+<pb n="43" facs="tcp:45199:26"/>whether they have born any publick charge, and whether they have ſhown Diligence and Fidelity in the adminiſtration thereof; whe<g ref="char:EOLhyphen"/>ther they are the heads of any faction, left under pretence of Juſtice they revenge pri<g ref="char:EOLhyphen"/>vate Quarrels with publick Arms: but alſo in following Councils. <hi>It's the greateſt prudence in humane life, ſays</hi> Ariſtotle, <hi>to make good uſe of advice.</hi> The words of <hi>Mutianus</hi> to <hi>Veſpa<g ref="char:EOLhyphen"/>ſian</hi> are to be obſerved:
+<note n="†" place="margin">
+                        <hi>Tacitus lib.</hi> 2.</note> 
+                     <hi>Whoſo<g ref="char:EOLhyphen"/>ever enters into deliberations of great and weighty Affairs, ought to examine whether what is begun, be profitable to the Common-wealth, honourable or feiſible.</hi> He alſo who Councels muſt be conſidered, whether he adds his own danger to his advice, or to whom the chief praiſe redounds. Let him therefore who is to conſult conſider diligently, whether what is conſulted concerns the Councellor directly, for all Councels in a mans own cauſe are to be ſuſpected; or whe<g ref="char:EOLhyphen"/>ther it be honeſt or lawful: for if it deviate from honeſty, it is bad: whether it doth principally regard the publick good or private profit: let him hear patiently what is ſpoken by contrary parties, and diſagreeing opinions, and obſerve with what Reaſons and Argu<g ref="char:EOLhyphen"/>ments they are confirmed. If the buſineſs ſeem difficult, let him deliberate better, or de<g ref="char:EOLhyphen"/>fer it to another time. <hi>There is no greater E<g ref="char:EOLhyphen"/>nemy
+<pb n="44" facs="tcp:45199:27"/>to Conſultations,</hi> ſays Livius, <hi>than too much haſt. Too late and unprofitable repentance doth follow ſuch Councels.</hi> Therefore the Author of the Utopian Common-wealth ſays, <hi>That nothing is diſputed there</hi>
+                     <note n="†" place="margin">
+                        <hi>Sir Tho. More lib.</hi> 2. <hi>de Ma<g ref="char:EOLhyphen"/>giſtra.</hi>
+                     </note> 
+                     <hi>the ſame day it's propounded in the Council, but defer'd till the next Council-day, leſt any ſhould babble out what comes firſt in his Mouth, but that he may <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> leiſure excogitate with what Arguments he may defend his Opinion; leſt through a per<g ref="char:EOLhyphen"/>verſe and prepoſterous ſhame, he ſhould rather de<g ref="char:EOLhyphen"/>ſtroy the publick ſafety, than the fame of his own abilities, by his precipitated rather than conſide<g ref="char:EOLhyphen"/>rate Opinion.</hi> This precept or advice ſeems to be taken from the Emperour <hi>Severus,</hi> who after the buſineſs propos'd, did give time to his Councellors to deliberate with themſelves touching all Particulars and Circumſtances, leſt they ſhould have been forc'd to ſpeak of great Affairs without mature deliberation, which has alſo been the deſtruction of many, who deſpiſing ſlow, yet ſecure Councels, did embrace contrary ones.
+<note n="†" place="margin">
+                        <hi>Tac. lib.</hi> 2. <hi>annal.</hi>
+                     </note> 
+                     <hi>Lau<g ref="char:EOLhyphen"/>rentius Medices</hi> Duke of <hi>Flo<g ref="char:EOLhyphen"/>rence,</hi> did vary when he con<g ref="char:EOLhyphen"/>ſulted his Friends, whoſe Fi<g ref="char:EOLhyphen"/>delity or Conſtancy he ſuſpected. Whom he reſolv'd to admit into his conſultation, he did conſult them not together, but ſeverally; ſo when he found many opinions to agree in one, he thought that the beſt.</p>
+                  <pb n="45" facs="tcp:45199:27"/>
+                  <p>It is requiſite alſo for a Prince to know every thing done relating to the State in his Dominions, left he be deceived by bad Coun<g ref="char:EOLhyphen"/>cellors. But he muſt take heed in the mean while that he give not too much credit to ma<g ref="char:EOLhyphen"/>licious detracters and tale-bearers: For mere lyes and calumnies are often buz'd in the Prin<g ref="char:EOLhyphen"/>ces ears thereby, from whence do proceed the danger, yea deſtruction of the innocent. It's obſerv'd by wiſe-men, that ſuch perſons are never faithful. Says <hi>Taci<g ref="char:EOLhyphen"/>tus,</hi>
+                     <note n="†" place="margin">
+                        <hi>lib.</hi> 4. <hi>an.</hi>
+                     </note> 
+                     <hi>they are a ſort of People found out for Publick Deſtruction.</hi>
+                  </p>
+                  <p>A Prince ſhould ſuffer his Councellors to give their opinion freely, ſo as in the mean while they be joyn'd amongſt themſelves by mutual concord. Factions amongſt States-men are ever fatal. <hi>The pertinacy of private hatred,</hi> ſays Tacitus,
+<note n="†" place="margin">
+                        <hi>lib.</hi> 1. <hi>heſt.</hi>
+                     </note> 
+                     <hi>doth often draw on Publick Deſtruction.</hi> And in another place
+<note n="†" place="margin">
+                        <hi>lib.</hi> 5 <hi>annal</hi>
+                     </note> 
+                     <hi>The hatred of the Conſuls tends to the Deſtructi<g ref="char:EOLhyphen"/>on of the Common-wealth.</hi> Thoſe great Men have many followers, to whom they eaſily joyn themſelves, by whoſe help they exerciſe their hatred, to the undoing of many, and ſometimes of their Prince and Country to boot.</p>
+                  <p>I add alſo, that Princes ſhould chooſe Councellors not through recommendations, and friendſhip, but ſuch as he knows well-qualified,
+<pb n="46" facs="tcp:45199:28"/>and able for ſuch employment.</p>
+                  <p>And finally, a Prince ought not to diſcard or turn off, without great cauſe, the good and faithful Councellors of his predeceſſors, from whom he might learn much, very profitable to good government. <hi>Louis</hi> the eleventh, King of <hi>France,</hi> adviſed his Sonne <hi>Charles</hi> not to innovate any thing in the Government of the Kingdom, and to retain his Ancient Favo<g ref="char:EOLhyphen"/>rites, and Servants: For he had found by ex<g ref="char:EOLhyphen"/>perience, that his baniſhing from the Court, Men of approved vertue, was the only cauſe that he had fall'n into ſo many and ſo great dangers, and of the War and manifold Con<g ref="char:EOLhyphen"/>ſpiracies which did ſoon after break forth.</p>
+               </div>
+               <div n="5" type="chapter">
+                  <head>CHAP. V. <hi>Of Affairs deliberated in Councils.</hi>
+                  </head>
+                  <p>VVE have already ſpoken of the Per<g ref="char:EOLhyphen"/>ſons in a Council, it follows that we ſpeak ſomething of Affairs and De<g ref="char:EOLhyphen"/>bates deliberated therein. Such only are to be agitated in this great Conſiſtory which be<g ref="char:EOLhyphen"/>long to the greateſt Affairs of the Common-wealth, and to the State it ſelf: As thoſe of Religion, and of the Laws and Magiſtrates,
+<pb n="47" facs="tcp:45199:28"/>Peace and War, of Publick Fidelity, of keeping the Publick Peace, of entring into Leagues and defending the ſame, of the Con<g ref="char:EOLhyphen"/>troverſies of the Grandees, of the Negligence of Magiſtrates and Officers of State, of the Secrets of Embaſſies and the like.
+<note n="†" place="margin">
+                        <hi>Bod. lib.</hi> 3. <hi>c.</hi> 1.</note> For the Council of Princes ought to be buſied with grand Affairs, and not with tri<g ref="char:EOLhyphen"/>vial Matters, or the ſmall Controverſies of private Perſons. Whoſo aſſembles a Coun<g ref="char:EOLhyphen"/>cil of great and learned men for matters of ſmall moment, may be compared to <hi>Apion,</hi> who having call'd <hi>Homer</hi> from the dead did only inquire who were his Parents.</p>
+                  <p>But if you deſire to know where other bu<g ref="char:EOLhyphen"/>ſineſs ſhould be handled, ſuch as belong to the Revenues and Treaſury of the Prince, to the puniſhment of delinquents and the like? I anſwer, there ought to be more Councils ap<g ref="char:EOLhyphen"/>pointed diſſering in Offices, Buſineſs and Mini<g ref="char:EOLhyphen"/>ſters. The <hi>Spaniard</hi> has ſeven, ſeparated by ſo many Courts within the Kings Palace, that he may eaſily go to any as Affairs call him. The firſt is that of the Exchequer, which has the care of the publick Treaſure, and of the Reve<g ref="char:EOLhyphen"/>nues of the Empire, of the Tributes and Cuſtomes of the Subjects, of what is import<g ref="char:EOLhyphen"/>ed and exported, of the Lands, of the Crown, of the ſpoils of Enemies, of Merchandiſe, <hi>&amp;c.</hi> The ſecond is the Court Military, which is
+<pb n="48" facs="tcp:45199:29"/>employ'd about the fortification of Towns, the Cuſtodie of bordering places, the proviſi<g ref="char:EOLhyphen"/>on for Camps and Armies, and the like. The third is for the Proviſion of Victual, and has a care that ſo much abound, that a part thereof may be ſent to Neighbouring Provinces. The The fourth is the Court of Law, whereunto all private, civil Controverſies do belong. The fifth is Criminal, whereunto the cognizance of criminal matters doth pertain. The ſixth is Cenſorial, to which the caſtigation of Manners is committed. And the laſt is the great Court which has the Authority over all the former, and hath the care of making and abrogating of Laws.</p>
+               </div>
+               <div n="6" type="chapter">
+                  <head>CHAP. VI. <hi>Of the end of Councils</hi>
+                  </head>
+                  <p>WHatever man does ſhould always be to ſome end. Whoſo therefore is ignorant thereof, loſeth the hope of obtain<g ref="char:EOLhyphen"/>ing the ſame. <hi>Our Councils muſt erre,</hi> ſays Seneca, <hi>which have not a Mark whereunto they are directed.</hi> As therefore a Phyſician doth propoſe to himſelf the health of his Patient, and a General Victory; ſo ſhould a Councellor the Glory of God, and the Honour and good
+<pb n="49" facs="tcp:45199:29"/>good of his Prince and Country. It is appa<g ref="char:EOLhyphen"/>rent enough, by the reading of Ancient Wri<g ref="char:EOLhyphen"/>ters, that the <hi>Roman Senate</hi> did chiefly regard, what was conducing to the good of the Re<g ref="char:EOLhyphen"/>publick, to the profit of the City, and to the Common ſafety. Hence you ſee thoſe uſual forms; <hi>E Republica eſſe,</hi> alſo, <hi>Si quis aliter fe<g ref="char:EOLhyphen"/>ciſſet, eum contra rempublicam facturum. Who rules the Common wealth,</hi> ſays Cicero, <hi>ought to remember two precepts of</hi> Plato; <hi>the one is, ſo to regard the utility of their Country, that what<g ref="char:EOLhyphen"/>ever they do may tend thereto, forgetting their own private intereſt. The other to have a care of the whole Body of the Common-wealth, leſt by only de<g ref="char:EOLhyphen"/>fending one part, they deſert the reſt:</hi> For the adminiſtration of the Republick ſhould tend to the profit of thoſe who are to be protected, and not of ſuch to whom their protection is intruſted.—<hi>(Claudian.)</hi>
+                     <q>
+                        <l>
+                           <hi>Tu civem patremque geras, tu conſule cunctis.</hi>
+                        </l>
+                        <l>
+                           <hi>Nec tibi, nec tua te moveant, ſed publica vota.</hi>
+                        </l>
+                     </q>
+                     <q>
+                        <l>Thou muſt a Father to thy Country be,</l>
+                        <l>Provide for all, not for thy ſelf only;</l>
+                        <l>If thou'lt deſerve that every Man ſhould love thee,</l>
+                        <l>Let publick good not private profit move thee.</l>
+                     </q>
+                  </p>
+                  <p>The publick good ſhould be underſtood, not ſo much to belong to the Prince, as to the
+<pb n="50" facs="tcp:45199:30"/>Common-wealth. For he himſelf ought to neglect his own private profit if it be contrary to the publick good. <hi>Few have a care of the Publick Honour,</hi> ſays Tacitus, <hi>which ſhould be chiefly regarded by a Councellor,</hi> and whereof the <hi>Athenians</hi> were very careful: For <hi>Themi<g ref="char:EOLhyphen"/>ſtocles</hi> had determined, after his victory over <hi>Xerxes,</hi> that his Country ſhould obtain the Principality of <hi>Greece,</hi> and for that end had refolved to burn the Fleet of the <hi>Lacedemonians</hi> privately, that thereby their Riches and Strength might be ruin'd; he did therefore tell the People, that he had ſomething to propoſe of great conſequence, and deſired them to name one to conſult with him about it, leſt being divulg'd by the Multitude it might prove prejudicial to the Common-wealth, whereup<g ref="char:EOLhyphen"/>on <hi>Ariſtides</hi> was named by the people; who after hearing, ſeeing <hi>Themiſtocles</hi> erre in the end, which was the publick honour, did re<g ref="char:EOLhyphen"/>late that his Council was profitable to the Re<g ref="char:EOLhyphen"/>publick, but diſhonourable and flagitious. The whole Aſſembly did therefore incontinent<g ref="char:EOLhyphen"/>ly declare, that that Council was to be rejected, which, to the addition of command did joyn publick diſhonour. <hi>Tacitus</hi> doth find amongſt the Writers of thoſe times, that the Letters of <hi>Adgandreſtius</hi> were read in the Senate, where<g ref="char:EOLhyphen"/>in he Promiſed the death of <hi>Arminus,</hi> if poy<g ref="char:EOLhyphen"/>ſon ſhould be ſent to him to effect the ſame, and anſwered by them, that the <hi>Romanes</hi> would
+<pb n="51" facs="tcp:45199:30"/>take Revenge of their Enemies publickly and armed, and not by fraud and murther. What<g ref="char:EOLhyphen"/>ever Deeds, (ſays the Lawyer) are againſt Re<g ref="char:EOLhyphen"/>ligion, Reputation, and Good Manners are upon no accompt to be done by us.</p>
+                  <p>Theſe are (if not all) at leaſt the chief things which can be ſpoken generally of Councils, and which I have brought to an end, with, I hope, no empty brevity, having added the Teſtimo<g ref="char:EOLhyphen"/>nies of learned Authors. I therefore leave it to the Judgment of the candid and judicious Readers.</p>
+                  <trailer>The end of the Firſt Part.</trailer>
+                  <pb n="52" facs="tcp:45199:31"/>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>THE WELL-QUALIFIED COURTIER.</head>
+               <head type="sub">PART II.</head>
+               <div type="proem">
+                  <head>THE PROEME.</head>
+                  <p>IT's frequently ſeen, that Courtiers who cannot obtain thoſe Preferments, Ho<g ref="char:EOLhyphen"/>nours and Riches, whereunto they have long aſpired, accuſe the ingratitude of their Prince: ſometimes they impute their misfortunes to the envy of their Fellow-Courtiers; and ſometimes to the blindneſs of Fortune: and then exclame with <hi>Seneca,</hi>
+                     <q>
+                        <l>
+                           <hi>O Fortuna viris invid afortibus,</hi>
+                        </l>
+                        <l>
+                           <hi>Quam non aequa bonis praemia dividis?</hi>
+                        </l>
+                     </q>
+                     <q>
+                        <pb n="53" facs="tcp:45199:31"/>
+                        <l>O Unjuſt Fortune, brave Men often find,</l>
+                        <l>Rewards unworthy of a noble mind.</l>
+                     </q>
+                  </p>
+                  <p>But for the moſt part in my opinion they com<g ref="char:EOLhyphen"/>plain without cauſe. For although Princes do often beſtow greater Riches and Honours on Paraſites and Flatterers, and do truſt ſuch more willingly, than thoſe to whom (perhaps) they owe their Life and Scepter: For that ſaying of <hi>Tacitus</hi> is moſt true, <hi>That obligations are acceptable ſo long as they ſeem to be within the compaſs of reward, but when they are without the ſame, they procure hatred in lieu of favour.</hi> And although good and modeſt men are often de<g ref="char:EOLhyphen"/>luded by the fraud of Wicked Courtiers, by whoſe ſecret accuſations, ſays <hi>Tacitus,</hi>
+                     <note n="*" place="margin">
+                        <hi>lib.</hi> 1. <hi>hiſt.</hi>
+                     </note> they are diſgrac'd, be<g ref="char:EOLhyphen"/>ing ignorant thereof, and that they may the more eaſily be deceived, they are prais'd to their faces; yet notwithſtanding men may ſee (for let us always acknowledge the truth) that the effects of the evils do pro<g ref="char:EOLhyphen"/>ceed from themſelves, who are the cauſes thereof; becauſe they follow the Court, being deſtitute of thoſe Arts, Manners, and Qualifi<g ref="char:EOLhyphen"/>cations requiſite in a Courtier.</p>
+                  <p>It's a great folly to undertake any thing a<g ref="char:EOLhyphen"/>bove our reach, and there is hardly ſo bad a Prince to be found, who deſires not that his Affairs ſhould be managed with diligence and prudence, and conſequently doth beſtow Ho<g ref="char:EOLhyphen"/>nours
+<pb n="54" facs="tcp:45199:32"/>and Riches on faithful and prudent Mi<g ref="char:EOLhyphen"/>niſters.</p>
+                  <p>But Envy, which is always the concomitant of Vertue, and follows her as the ſhadow doth the body, is often an obſtruction of our ho<g ref="char:EOLhyphen"/>neſt endeavours. Let that be granted; <hi>Yet we muſt o'recome that with our prudence, ſays</hi> Tacitus.</p>
+                  <p>But you inſiſt that the favour of Princes is unconſtant, and that thoſe who can do all and all with them, do often notwithſtanding fall into diſgrace, yea and in danger of their Lives.</p>
+                  <q>
+                     <l>
+                        <hi>Namque, hos e</hi>
+                        <note n="*" place="margin">
+                           <hi>Lucret. lib.</hi> 5. <hi>de. re. nat.</hi>
+                        </note> 
+                        <hi>ſummo quaſi</hi>
+                     </l>
+                     <l>
+                        <hi>fulmen dejicit ictos</hi>
+                     </l>
+                     <l>
+                        <hi>Invidia, interdum contemptim in tartara terrae.</hi>
+                     </l>
+                  </q>
+                  <q>
+                     <l>As if with Thunder ſtruck than Envy muſt</l>
+                     <l>What's high exalted level with the duſt.</l>
+                  </q>
+                  <p>
+                     <hi>Hermeas</hi> was of great Authority with <hi>An<g ref="char:EOLhyphen"/>tiochus</hi>
+                     <note n="*" place="margin">
+                        <hi>Polyb. l.</hi> 7.</note>: yet he was killed in the ſight and by the approbation of this Prince. <hi>Lucius, Aleus Sejanus</hi> was in ſuch favour with <hi>Tiberius</hi>
+                     <note n="*" place="margin">Dio. in Tyberio.</note> that he made him his Collegue in the Empire; yet he was adjudg'd to dye, his Body to be thrown into the River <hi>Tyber,</hi> and his Children
+<pb n="55" facs="tcp:45199:32"/>to be murthered, and many others whom for brevities ſake I omit.</p>
+                  <p>This is all true, but if we will take a more ſtrict obſervation, we ſhall find that the favour of Princes is not in it ſelf deſtructive, but to thoſe who know not how to uſe the ſame. Men cannot be cautious enough, ſays <hi>Cur<g ref="char:EOLhyphen"/>tius,</hi>
+                     <note n="*" place="margin">
+                        <hi>lib.</hi> 4.</note> amidſt ſo many flatteries of Fortune. Intolerable am<g ref="char:EOLhyphen"/>bition and Pride made <hi>Hermeas</hi> hated; treaſon and perfidiouſneſs was the cauſe of <hi>Alius Sejanus</hi>'s deſtruction. Neither ought we to admire that in Courtiers, when we find that Princes themſelves have been brought to ruine on the ſame occaſion.</p>
+                  <q>
+                     <l>
+                        <hi>Quid memorem everſas urbes Regumque ruinas?</hi>
+                     </l>
+                     <l>
+                        <hi>Inque rogo</hi> Craeſum Priamumque <hi>in littore trun<g ref="char:EOLhyphen"/>cum,</hi>
+                     </l>
+                     <l>
+                        <hi>Cui nec Troja rogus. Quid</hi> Xerxem <hi>majus et ipſo?</hi>
+                     </l>
+                     <l>
+                        <hi>Naufragium pelago, quid captos agminereges?</hi>
+                     </l>
+                  </q>
+                  <q>
+                     <l>Of ruin'd Kings why ſhould I mention make?</l>
+                     <l>The fate of <hi>Priam, Craeſus</hi> at the ſtake.</l>
+                     <l>How <hi>Xerxes</hi> great from as great Shipwrack fled,</l>
+                     <l>And Kings in triumph often captive led.</l>
+                  </q>
+                  <p>On the contrary, if we behold thoſe who from a low birth have become famous, and ponderate their actions, we ſhall find that they
+<pb n="56" facs="tcp:45199:33"/>have been eminently qualified above others. As <hi>Agathocles, Ptolomy</hi> the firſt, <hi>Hieron, Servius, Tullius, Silla, Veſpaſian,</hi> the Emperour <hi>Probus, Juſtin, Ottoman,</hi> and many more, who although of obſcure birth, did notwithſtanding obtain great Honours, and royal Dignities, by their vertue and diligence. Great Trees which are long in growing, ſays <hi>Curtius,</hi> are extirpated in a ſhort time. It's folly for him who aims at their fruit, not to conſider their height. Be<g ref="char:EOLhyphen"/>ware leſt in ſtiving to get to their top, you do not fall with thoſe Branches you catch'd hold of.</p>
+               </div>
+               <div n="1" type="chapter">
+                  <head>CHAP. I. <hi>Of his Education.</hi>
+                  </head>
+                  <p>THerefore good Education is moſt effectu<g ref="char:EOLhyphen"/>al, which directs the Councils and De<g ref="char:EOLhyphen"/>terminations of Men's Lives to the exacteſt rule of prudence and true vertue; by which Natures are corrected and made pliable. Na<g ref="char:EOLhyphen"/>ture produceth youth eaſy to be led either way, ſo that when it finds a Guide, it is induc'd to follow either his vitious or vertuous inclinati<g ref="char:EOLhyphen"/>ons. A good nature conduceth very much, but then eſpecially when cultivated by an ho<g ref="char:EOLhyphen"/>neſt
+<pb n="57" facs="tcp:45199:33"/>Education. He muſt therefore have a care who has noble and high deſigns, to be inſtructed in all good Arts and Manners, not to accuſtom himſelf to delicate but ſimple food, not to idleneſs but labour, not to riot but decent parſimony, not to temerity and impudence, but modeſty and ſweetneſs; not to licentiouſneſs but fear and reverence, not to pleaſures but to the Liberal Sciences. <hi>I wiſh,</hi> ſays <hi>Quintilian, that we did not ſo abuſe the nature of our Children; that tender educati<g ref="char:EOLhyphen"/>on, which we call indulgence, breaks the nerves of both body and mind.</hi>
+                  </p>
+                  <p>We ſee therefore <hi>Plato,</hi> that moſt grave teacher of vertue, in almoſt all his Dialogues, exhorting Parents to educate their Children aright.</p>
+                  <p>Though this principle unfoldeth many ob<g ref="char:EOLhyphen"/>jects neceſſary to the forming our preſent ſub<g ref="char:EOLhyphen"/>ject. Yet ſince moſt of them are rather pre<g ref="char:EOLhyphen"/>paratives than polliſhments, we will here paſs by thoſe inſtitutions, that are uſually pro<g ref="char:EOLhyphen"/>per to the two firſt Ages, infancy and puerili<g ref="char:EOLhyphen"/>ty. And taking our Courtier in his adole<g ref="char:EOLhyphen"/>ſcence, propoſe only in reference to our pre<g ref="char:EOLhyphen"/>ſent ſubject, thoſe diſtinctions requiſite to his employment, <hi>languages, letters,</hi> and <hi>travel.</hi>
+                  </p>
+                  <p>But becauſe we have ſpoken already of all thoſe in the firſt part, we think it ſuperfluous to inſiſt thereon. Only let not a Courtier be ignorant of the knowledge of Hiſtories, with<g ref="char:EOLhyphen"/>out
+<pb n="58" facs="tcp:45199:34"/>which a man can hardly obtain the name of a grave and prudent perſon. As an old man is eſteemed more prudent than a young man, ſays <hi>Quintilian,</hi> becauſe he has ſeen what has fallen out through the courſe of many years: ſo we muſt confeſs that he is the moſt prudent, who knows the actions and events, not only of his own but of paſt Ages. What is pru<g ref="char:EOLhyphen"/>dence elſe, but the obſervation of events, and of things preſent and future, drawn from what is by-paſt. Hiſtory is the mirrour of civil life, where Hero's, Princes, and Nobles, who are appointed to Govern, ought to behold them<g ref="char:EOLhyphen"/>ſelves. To be ſhort, Hiſtory furniſheth us not only with Examples of civil prudence, but alſo with thoſe of Military Vertue. If one would know how to take the occaſions of time and place to fight, let him read the Lives of
+<note n="*" place="margin">Plutarch.</note> 
+                     <hi>Lyſander</hi> and <hi>Xantippus.</hi> If he would make uſe of warlike ſtratagems, let him imitate <hi>Timo<g ref="char:EOLhyphen"/>theus, Iphicrates,</hi> and <hi>Hannibal.</hi> If being vi<g ref="char:EOLhyphen"/>ctorious he would let the Enemy eſcape, leſt deſpair ſhould produce boldneſs, let him read the Example of
+<note n="†" place="margin">Id.</note> 
+                     <hi>Themi<g ref="char:EOLhyphen"/>ſtocles</hi> to <hi>Xerxes.</hi> But if any affirm that ſuch things cannot be learned by reading only, let him propoſe to himſelf <hi>Lucius Lu<g ref="char:EOLhyphen"/>cullus,</hi> whom <hi>Cicero</hi> writes at his departure from <hi>Rome</hi> to have been altogether ignorant of malitary Affairs, but partly by enquiry,
+<pb n="59" facs="tcp:45199:34"/>partly by reading, he was become ſo great a Captain when he came into <hi>Aſia,</hi> that <hi>Mi<g ref="char:EOLhyphen"/>thridates</hi> did confeſs he never knew a greater. I only add, ſeeing there are abundance of Hi<g ref="char:EOLhyphen"/>ſtorians, that we muſt chuſe the beſt. A<g ref="char:EOLhyphen"/>mongſt the <hi>Grecians, Thucydides, Xenophon, Polybius, Plutarch,</hi> and <hi>Nicetas</hi> were famous. Amongſt the <hi>Romans, Livy, Tacitus, Salust, Caeſar, Quintus Curtius,</hi> and <hi>Suetonius.</hi> Of modern Hiſtorians, <hi>Guicciardine, Coneſtagius, Cominus, Sleidan,</hi> and <hi>Davila</hi> are the beſt.</p>
+                  <p>Theſe are ſo to be read, that we may ob<g ref="char:EOLhyphen"/>ſerve not only what was done, but upon what occaſion, what way, when, and in what ſtate of Affairs.</p>
+               </div>
+               <div n="2" type="chapter">
+                  <head>CHAP. II. <hi>Of his ſweetneſs and integrity of Manners in general.</hi>
+                  </head>
+                  <p>FOR brevities ſake, which hitherto I have greatly affected; I will forbear to ſpeak any more of the reſt of the exerciſes of the mind comprehended in Learning, or of the exerciſes of the Body, as riding, fencing, dancing and the like, of all which our Courtier ſhould not be ignorant, and only inſiſt, though ſuccinctly, on
+<pb n="60" facs="tcp:45199:35"/>his ſweetneſs, affability and manners, which <hi>Cicero</hi> calls <hi>the Ornament of humane life,</hi> and which procures the deſerved love and admira<g ref="char:EOLhyphen"/>tion of all. For as the beauty and comelineſs of the body attracts the eyes of men, ſo a ſweet and courteous nature gains the hearts and affections of every one. <hi>As harſh wine, ſays</hi> Socrates, <hi>is unpleaſant to the taſte; ſo are rugged and ruſtick manners to converſation.</hi>
+                  </p>
+                  <div n="1" type="section">
+                     <head>SECT. I. <hi>Of his Gate, Speech and Habit.</hi>
+                     </head>
+                     <p>It is not ſufficient to do, ſays the Hiſtorian, but it's alſo requiſite to do with a grace. Let not therefore the Gate of a Courtier incline to le<g ref="char:EOLhyphen"/>vity or vanity, but let it be grave without af<g ref="char:EOLhyphen"/>fectation.</p>
+                     <p>And becauſe the ſpeech is the Character of the mind, he ſhall obſerve a decorum therein, of Perſons, Times and Place, that he may ſpeak pertinently, and after a different manner to his Prince, Equals and Inferiours. For this Elegancy in ſpeaking is a ſign of the interiour virtue, which cannot be perpetual, unleſs it proceed from ſuch an excellent inclination of the Soul. Much can be feigned in the Car<g ref="char:EOLhyphen"/>riage, Countenance and Speech, which are not in the Soul; but it's impoſſible that it can
+<pb n="61" facs="tcp:45199:35"/>be of any long con<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>uance.</p>
+                     <p>And as to the habit, let every thing be avoid<g ref="char:EOLhyphen"/>ed that may therein effeminate: whoſo has too great a care of his Body, ſays a Divine, neg<g ref="char:EOLhyphen"/>lects his Soul. Let the habit of a Courtier be agreeable with a decency to the Country and Court wherein he lives, handſom and faſhio<g ref="char:EOLhyphen"/>nable without affectation, which he ſhould change according to the Place, Cauſe, Age, or Time.</p>
+                     <div n="1" type="subsection">
+                        <head>Subſect. 1. <hi>Of his Deportment towards his Prince.</hi>
+                        </head>
+                        <p>What we have already ſpoken is of great moment in our Courtier, but what ſhall follow will be of far greater, and the more accurately to be obſerved, becauſe we ſee many erre there<g ref="char:EOLhyphen"/>in.</p>
+                        <p>Firſt we ſhall ſhow how a Courtier ought to carry himſelf to his Prince, then to his Equals, therein to ſhun envy as much as poſſible may be, and laſtly with what vertues he ſhould be endued.</p>
+                        <p>Above all things I admoniſh our Courtier to be ſuch in effect, as he would deſire to ſeem to his Prince and others, and let not his Tongue diſſent from his Heart. <hi>He is as great an E<g ref="char:EOLhyphen"/>nemy to me, ſays</hi> Homer, <hi>as the Gates of Hell, who ſpeaks one thing and thinks another. No Lye grows old, ſays</hi> Euripides. <hi>And as the
+<pb n="62" facs="tcp:45199:36"/>love of Men to a painted <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ore can be of no long continuance, (for with the firſt heat the deceit ap<g ref="char:EOLhyphen"/>pears, and the face thereby becomes more ugly,) ſo when diſſemblers are ſuſpected (which commonly happeneth) they incur the hatred of their Prince and others.</hi> Real pain doth follow falſe plea<g ref="char:EOLhyphen"/>ſure; real diſgrace, falſe Honour; and real deſtruction falſe profit. To omit, that it is a<g ref="char:EOLhyphen"/>gainſt Chriſtian-piety, which conſiſts wholly in the ſimplicity of the mind.</p>
+                        <lg>
+                           <l>
+                              <hi>Verum hodie laus eſt non ultima, fingere vultum,</hi>
+                           </l>
+                           <l>
+                              <hi>Et ſimulare probe: Nec qui vel fallere neſcit,</hi>
+                           </l>
+                           <l>
+                              <hi>Mentirive, ferit Sapientis nomen in aula.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>Diſſimulation, and well-feigned faces,</l>
+                           <l>Once hateful vices now are no diſgraces:</l>
+                           <l>Who cannot cheat, and lye, he ſtrives in vain</l>
+                           <l>The name of wiſe in Court e're to obtain.</l>
+                        </lg>
+                        <div n="1" type="division">
+                           <head>Diviſ. 1. <hi>Of his Aſſiduity and Diligence.</hi>
+                           </head>
+                           <p>Having laid this Foundation, I ſay that Aſ<g ref="char:EOLhyphen"/>ſiduity and Diligence are neceſſarily requiſite in our Courtier. <hi>This is chiefly to be regarded by us, ſays</hi> Antonius <hi>in</hi> Cicero; <hi>there is nothing which it cannot obtain:</hi> For whatever falls un<g ref="char:EOLhyphen"/>der our charge we accompliſh with Care, Vi<g ref="char:EOLhyphen"/>gilance and Labour, and in a word Diligence, in which one Vertue all the reſt are contain'd. It is good to be admir'd in what we have by
+<pb n="63" facs="tcp:45199:36"/>Fortune. But it's far better to have obtain'd what is glorious and honourable, by our own induſtry; for the former happens to good and bad, but the other, (according to <hi>Demoſthenes</hi>) <hi>to none but generous and brave ſpirits.</hi> We ſee Courtiers oft-times complain, that being very obſervant of their Prince, they are notwith<g ref="char:EOLhyphen"/>ſtanding in little favour, and how ſhould that be?</p>
+                           <p>The Anſwer is eaſie, for when the Sun ſhines on divers Edifices, thoſe ſeem moſt il<g ref="char:EOLhyphen"/>luſtrious who have the greateſt Glaſs-lights: ſo Princes advance ſuch Courtiers moſt, who by vertue and diligence are the moſt fit for the adminiſtration of Affairs. By diligence there<g ref="char:EOLhyphen"/>fore a Courtier will obtain that his Prince make frequent uſe of him; for ſuch they fa<g ref="char:EOLhyphen"/>vour more than others. <hi>It's no wonder,</hi> ſays <hi>Demoſthenes, that he who refuſeth no pains, is always preſent upon every occaſion, and neglects not the least moment of time, to obtain his de<g ref="char:EOLhyphen"/>ſires before others. All things fall out proſpe<g ref="char:EOLhyphen"/>rouſly,</hi> ſays
+<note n="†" place="margin">Cato apud Saluſtium.</note> 
+                              <hi>Saluſt, by watching, doing, and conſulting aright; but when you addict your ſelf to lazineſs and idleneſs, you ſhall in vain implore the angry Gods.</hi>
+                           </p>
+                           <p>We call him a diligent Courtier who ſel<g ref="char:EOLhyphen"/>dom removes his thoughts from what is com<g ref="char:EOLhyphen"/>mitted to his charge, who makes it his only care that his Prince receive no prejudice,
+<pb n="64" facs="tcp:45199:37"/>
+                              <q>
+                                 <l>Both to foreſee and to prevent</l>
+                                 <l>Dangers as ſoon as they are meant.</l>
+                              </q> who ſpares no pains nor dangers, but rather remains as upon a perpetual watch, who if he be ſent to another Prince, obſerves his nature and manners, his ſtrength and power, his cuſtomes and treaſure, his Confederates and Allies, and all his form of Government.</p>
+                           <p>And ſo much of the diligence of our Cour<g ref="char:EOLhyphen"/>tier, where it's to be obſerved, that the leaſt affected, and moſt remote from oſtentation, is the moſt commendable. As <hi>Paterculus</hi> ob<g ref="char:EOLhyphen"/>ſerves aright in <hi>Piſo;</hi> that he did what was to be done without noiſe. As on the contrary, officious curioſity renders men hateful. <hi>To be curious, ſays</hi> Cicero, <hi>is to deſire to know what doth not belong unto us: which denotes him to be a man of levity or little ſincerity.</hi>
+                           </p>
+                        </div>
+                        <div n="2" type="division">
+                           <head>Diviſ. 2. <hi>Of his Secreſie.</hi>
+                           </head>
+                           <p>
+                              <hi>Philiopides</hi> did anſwer King <hi>Lyſimachus</hi> wiſe<g ref="char:EOLhyphen"/>ly, when he asked what he ſhould communicate to him; <hi>any thing but your ſecrets, ſays he.</hi> It is a moſt dangerous thing to know the ſecrets of Princes, <hi>becauſe they are always jealous of ſuch perſons, ſays</hi> Caſſiodorus. Therefore our Cour<g ref="char:EOLhyphen"/>tier ſhould not reveal the ſecrets of his Prince to any, but eſpecially ſuch as he is intruſted with. The <hi>Perſians</hi> did conceal the ſecrets of
+<pb n="65" facs="tcp:45199:37"/>their Kings with admirable ſidelity; no fear or hope could draw one ſyllable thereof from them, <hi>and a man cannot undergo great Affairs, to whom it's a trouble to hold his tongue, ſays</hi> Cur<g ref="char:EOLhyphen"/>tius. They are ridiculous, who out of an oſtentative vanity, rejoyce to relate what is done every day in the Cabinet-council of their Prince, that thereby they may ſhow how much they are in favour with him. A certain <hi>Athe<g ref="char:EOLhyphen"/>nian</hi> did invite the Embaſſadors of King <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> to his houſe, and ſome <hi>Philoſophers,</hi> amongſt whom <hi>Zeno</hi> was one, and when all were merry and argued much upon ſeveral Subjects, <hi>Zeno</hi> in the mean while was ſtill ſilent. Which the Embaſſadours perceiving, did ask him what they ſhould relate to their King. <hi>That you have ſeen, anſwers</hi> Zeno, <hi>an old man at</hi> Athens <hi>who knew how to be ſilent amongſt Cups.</hi> It is praiſe worthy to ſpeak well, but it deſerves no leſs praiſe to know when to be ſilent. When <hi>Ariſtotle</hi> ſent <hi>Caliſtines</hi> his Scho<g ref="char:EOLhyphen"/>lar and Kinſman to <hi>Alexander,</hi> he did admo<g ref="char:EOLhyphen"/>niſh him to ſpeak ſeldom, and prudently to him, who had the power of life and death upon his tongue. Which advice rejected by <hi>Caliſtines,</hi> was the cauſe
+<note n="*" place="margin">Curtius.</note> of his deſtruction.</p>
+                           <p>In the next place I would ad<g ref="char:EOLhyphen"/>viſe our Courtier, to make as honourable men<g ref="char:EOLhyphen"/>tion of his former Maſter (if he has had any) as if he were yet alive; and not to complain
+<pb n="66" facs="tcp:45199:38"/>of him, although he thinks it acceptable to his Prince; otherwiſe he ſhall fall into two inconveniences. The one, the Prince ſhall imagine, that he may expect the like himſelf through proceſs of time; the other he will think it the Courtiers own fault, that he was not in greater favour with his former Maſter.</p>
+                        </div>
+                        <div n="3" type="division">
+                           <head>Diviſ. 3. <hi>Of his love and affection to his Prince.</hi>
+                           </head>
+                           <p>As the rayes cannot be ſeparated from the Sun, heat from Fire, cold from Ice, nor Snow from whiteneſs, ſo cannot benevolence, fami<g ref="char:EOLhyphen"/>liarity, ſociety, and concord be ſeparated from love. Seeing, I ſay, nothing doth more gain affection than tokens of love, let a Cour<g ref="char:EOLhyphen"/>tier endeavour to the utmoſt of his power to make his Prince underſtand that he loves him. Love (according to the Proverb) begets love. It were ingratitude, indeed, not to love and favour thoſe, by whom we know we are not a little beloved, and have our dependence. I would have ſigns of this affection towards our Prince ſhewn, ſo oft as occaſion requires, not only in matters of great moment, as to ſuffer inconveniences, or lay down your very life for your Prince; but alſo in leſſer con<g ref="char:EOLhyphen"/>cerns, if neceſſity requires.</p>
+                           <p>To which 'tis much conducing to know the nature of his Prince, and of his Favourites,
+<pb n="67" facs="tcp:45199:38"/>and to obſerve to what he is naturally in<g ref="char:EOLhyphen"/>clined. Hiſtories ſhew by many Examples how much <hi>Aristotle</hi> did know the nature and inclinations of <hi>Alexander.</hi> And <hi>Tacitus</hi> ſays, that <hi>Sejanus</hi> knew exactly the nature of <hi>Ti<g ref="char:EOLhyphen"/>berius.</hi>
+                           </p>
+                           <p>The ſigns of love are theſe, to honour and reſpect not only the Prince himſelf, but all thoſe whom he favours, to be ſo ſubſervient to the humour of his Maſter, to ſhun the ſociety of thoſe whom he ſuſpects, providing he a<g ref="char:EOLhyphen"/>void flattery and affectation.</p>
+                        </div>
+                        <div n="4" type="division">
+                           <head>Diviſ. 4. <hi>Of flattery and affectation.</hi>
+                           </head>
+                           <p>Flattery is the ſign of a lying, baſe, ſervile ſpirit, hateful to private men, and prejudi<g ref="char:EOLhyphen"/>cial to Princes, whom it in infatuates and brings often to ruine. Therefore as we ſee them ſe<g ref="char:EOLhyphen"/>verely puniſhed who throw poyſon into pub<g ref="char:EOLhyphen"/>lick Springs, ſo ſhould they alſo, who by their adulation corrupt their Prince and Ma<g ref="char:EOLhyphen"/>ſter, and draw him from the ſtudy of equity to wickedneſs, and from continency to follow his luſtful inclinations. For the Prince is as a Fountain, from which the Laws flow, and juſtice is required; in him Examples of Ver<g ref="char:EOLhyphen"/>tue ſhould be found; from him aid is implo<g ref="char:EOLhyphen"/>red againſt wicked
+<note n="†" place="margin">Agapediaca.</note> men, and from him the reward of Vertue is expected.</p>
+                           <pb n="68" facs="tcp:45199:39"/>
+                           <p>The other, which our Courtier ſhould ſhun, is affectation; which though not ſo odious, yet is it the ſymptom of an unſolid and fooliſh ſpirit: For that too much diligence and ſub<g ref="char:EOLhyphen"/>ſerviency to the humours of Princes carries the ſimilitude of adulation, which is abomi<g ref="char:EOLhyphen"/>nable.</p>
+                           <p>To all which I ſhall only add two directi<g ref="char:EOLhyphen"/>ons, the one is, That ſeeing proſperous Gales do not always breath in the Courts of Prin<g ref="char:EOLhyphen"/>ces, we ſhould, when they do, catch hold of the occaſion. The other is, when you reſolve to deſire any thing from your Prince, thoſe things are to be required, which he can be<g ref="char:EOLhyphen"/>ſtow with the leaſt expence.</p>
+                        </div>
+                     </div>
+                     <div n="2" type="subsection">
+                        <head>Subſect. 2. <hi>Of his deportment towards his Equals.</hi>
+                        </head>
+                        <p>Now let us proſecute in few words what a Courtier ſhould obſerve in his carriage toward his Equals. And firſt let him ſhun as much as poſſible he can every accident by which he may incur the wrath of his Companions. If he be preferred by his Prince, let him not for<g ref="char:EOLhyphen"/>get or be aſhamed of his old Friends, if ho<g ref="char:EOLhyphen"/>neſt men; let him not obſtinately hinder the profit of others; let him not baffle his Friends, or jeſt too ſatyrically with them: For ſome there are, according to <hi>Quintilian,</hi> who had rather loſe a Friend than a Jeſt. Conſider
+<pb n="69" facs="tcp:45199:39"/>always diligently for what cauſe, in what com<g ref="char:EOLhyphen"/>pany, againſt whom, and what is ſpoken.</p>
+                        <p>A Courtier ſhould beware that he uſe not any petulant or proud expreſſion, not befitting the time, place, or perſons.</p>
+                        <p>Next, Let him beware of Flatterers and Diſſemblers, for thoſe do inſinuate themſelves to pry into mens ſecrets, that upon occaſion they may obſtruct their deſigns; and it is ve<g ref="char:EOLhyphen"/>ry difficult to diſtinguiſh ſuch men from true friends: for, according to <hi>Quintilian,</hi> it's the greateſt Art to conceal diſſimulation cunning<g ref="char:EOLhyphen"/>ly. Notwithſtanding, if our Courtier will uſe great circumſpection, learn to know him<g ref="char:EOLhyphen"/>ſelf, and diſtinguiſh prudently his true friends, he ſhall eaſily detect the artifice of Diſſem<g ref="char:EOLhyphen"/>blers. Who therefore do extol hyperbolically your wit, vertue, and courteſie, and who co<g ref="char:EOLhyphen"/>ver your Vices with contrary vertues? who call Temerity Fortitude, Negligence Clemen<g ref="char:EOLhyphen"/>cy, Prodigality Magnificence, and that al<g ref="char:EOLhyphen"/>ways to your face; ſuch you may juſtly ſu<g ref="char:EOLhyphen"/>ſpect.</p>
+                        <q>
+                           <l>
+                              <hi>Hunc quem vina tibi, quem menſa paravit amicum,</hi>
+                           </l>
+                           <l>
+                              <hi>Eſſe putas fide pectus amicitia?</hi>
+                           </l>
+                           <l>
+                              <hi>Vinum amat &amp; cyathos &amp; ſumma &amp; oſtrea, non te:</hi>
+                           </l>
+                           <l>
+                              <hi>Sublato vino, nullus amicus erit?</hi>
+                           </l>
+                        </q>
+                        <q>
+                           <l>Think you that friendſhip always will indure,</l>
+                           <l>Which wine and dainties only did procure?</l>
+                           <pb n="70" facs="tcp:45199:40"/>
+                           <l>He loves thy treats, and not thy ſelf; therefore</l>
+                           <l>When they are gone he'll be thy friend no more.</l>
+                        </q>
+                        <p>Let him be cautious therefore in chooſing a Friend, but ſo as to endeavour to obtain the love of all; which he ſhall eaſily do, if he be humane, liberal and affable to them.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="section">
+                     <head>SECT. II. <hi>Of his Vertues.</hi>
+                     </head>
+                     <p>Now it remains that we ſpeak of the Ver<g ref="char:EOLhyphen"/>tues wherewith our Courtier ſhould be qua<g ref="char:EOLhyphen"/>lifi'd, for there is nothing which allures more the Affections of Men. <hi>We love thoſe in ſome re<g ref="char:EOLhyphen"/>ſpects, ſays</hi> Tully, <hi>for their vertue, whom we have never ſo much as ſeen; Who doth not hate baſeneſs, avarice, and cruelty?</hi> For there is no man ſo flagitious, who would not deſire to have come to what he has obtain'd by wickedneſs, without a Crime; for the baſeneſs of the guilt doth ſo much affect thoſe who are addicted to vice, that they are hateful to themſelves, and do carry their puniſhment in their own Conſci<g ref="char:EOLhyphen"/>ence. And although all the vertues ſhould al<g ref="char:EOLhyphen"/>lure us, and make us love thoſe whom we ſee indued therewith: yet ſome are more becom<g ref="char:EOLhyphen"/>ing, according to the ſeveral qualities and
+<pb n="71" facs="tcp:45199:40"/>conditions of Men. As for example, magni<g ref="char:EOLhyphen"/>ficence becomes a Prince, but not a Plebeian.</p>
+                     <div n="1" type="subsection">
+                        <head>Subſect. 1. <hi>Of his Fortitude.</hi>
+                        </head>
+                        <p>Firſt Fortitude is required in our Courtier, that if it be neceſſary he may with an un<g ref="char:EOLhyphen"/>daunted mind offer himſelf to dangers for his Prince, his Country and himſelf. For as the Palm-tree doth not bow down when any weight hangs thereon, but of it's own accord raiſes it ſelf up againſt its burthen; ſo the more a gallant ſpirit is oppreſs'd with buſineſs or the aſſaults of Fortune, the more doth he remain crected and undaunted, as <hi>Pliny</hi> pru<g ref="char:EOLhyphen"/>dently obſerves. Let not our Courtier fear too much what can befal him; let him ſuffer unfortunate accidents patiently, and let him not do any thing with a timorous and faint heart.</p>
+                     </div>
+                     <div n="2" type="subsection">
+                        <head>Subſect. 2. <hi>Of his Temperance.</hi>
+                        </head>
+                        <p>But pleaſure is the mother of all evil, by whoſe flatteries what is good by nature is cor<g ref="char:EOLhyphen"/>rupted: Hence <hi>Tully</hi> no leſs truly than clo<g ref="char:EOLhyphen"/>gantly, <hi>Who are led away with pleaſures, ſayes he, and give themſelves to the allurements of vices and diſhoneſt deſires, let not ſuch endea<g ref="char:EOLhyphen"/>vour to attain to honours, nor meddle with the Common-wealth; let brave ſpirits ſuffer pains
+<pb n="72" facs="tcp:45199:41"/>for their Country, and let them enjoy their lazy idleneſs.</hi> Therefore it's abſolutely neceſſary that our Courtier be temperate. Temperance, ſays <hi>Seneca,</hi> commands over pleaſures, <hi>&amp;c.</hi> Xenophanes <hi>ſaid, that nothing bad could proceed from that man, who had ſtudied and embraced Temperance.</hi> No voluptuous pleaſures deceive a temperate man; he keeps his Hands, Eyes, and Heart free from what doth not concern him; is not inſnared with the pleaſures of vice; lives ſparingly, continently, ſtrictly, and ſoberly. Moreover this vertue is the Mo<g ref="char:EOLhyphen"/>ther of good health; as on the contrary in<g ref="char:EOLhyphen"/>temperance is the cauſe of ſickneſs and death. <hi>Two things</hi> (<hi>ſays</hi> Cornificius <hi>to</hi> Herennius) <hi>moves men moſt to wickedneſs, Luxury and Ava<g ref="char:EOLhyphen"/>rice.</hi> Whores are fatal pleaſures; fly from them if you be wiſe. <hi>Caius Gracchus</hi> upon his return from <hi>Sardinia</hi> told the <hi>Romanes,</hi> that he had ſo lived in the Province, that no man could ſay he had taken a Farthing in Gifts or Bribes; or that any Whore had entred his Houſe for two years time he had been there. I ſhall only add the words of <hi>Seneca</hi> concerning Ebriety. <hi>It doth include and detect every vice, it removes all ſhame which curbs bad deſigns; when too much Wine intoxicates the brain, what ever evil did formerly lurk burſts then out: then the Whore-Maſter doth not wait for a private room, but grants to his luſt whatever it deſires; then the impudent doth profeſs and publiſh his faults, then
+<pb n="73" facs="tcp:45199:41"/>the petulant doth contain neither Tongue, nor Hands: Pride grows in the inſolent, and cruelty in the fierce, &amp;c.</hi> And a little after, <hi>But conſider,</hi> ſays he, <hi>what miſchief this Vice has done, It has de<g ref="char:EOLhyphen"/>livered fierce and War-like Nations to their E<g ref="char:EOLhyphen"/>nemies; It has ruin'd invincible Armies, and deſtroyed conquering Princes. Travels, Fights, Rivers falling from unknown places, Seas, cold Winters, Dangers and Difficulties ſuffered</hi> A<g ref="char:EOLhyphen"/>lexander <hi>to live. But exceſs of drinking did de<g ref="char:EOLhyphen"/>ſtroy him.</hi>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+               <div n="3" type="chapter">
+                  <head>CHAP. III. <hi>Whether an Embaſſador may exceed the bounds of his Inſtructions.</hi>
+                  </head>
+                  <p>BEcauſe Princes do often employ Courtiers in Embaſſies, I will only move one queſtion, which I think not altogether imper<g ref="char:EOLhyphen"/>tinent in this place, though it has little cohe<g ref="char:EOLhyphen"/>rence with our precedent diſcourſe, and that is, Whether an Embaſſador may go beyond the limits of his Inſtructions, if any thing fall out to the advantage of his Prince, whereof he was ignorant when he the Prince did give him his Inſtructions. The cauſe of the doubt is, that he who goes beyond the limits of his
+<pb n="74" facs="tcp:45199:42"/>Commiſſion, though he do it not either out of malice or pride, ſeems to contemn his Maſter, or eſteem too much of himſelf or his own prudence, which is moſt odious. And then if the buſineſs doth not ſucceed proſpe<g ref="char:EOLhyphen"/>rouſly, he muſt incur the blame of diſobedi<g ref="char:EOLhyphen"/>ence and indeprecable puniſhment. But if it ſucceed, then is it eſteemed the benefit of Fortune. In the adminiſtration therefore of publick Affairs, it was a crime to do contrary to what was commanded, though done with Vertue, Valour, and Succeſs. Which <hi>Man<g ref="char:EOLhyphen"/>lius Torquatus</hi> did teach by a ſad Example
+<note n="†" place="margin">
+                        <hi>Lib.</hi> 8.</note>, but profitable to Youth in following Ages. I ſhall only add another of <hi>Craſſus Mutianus,</hi> who in the Siege of a certain Town, ſtanding in need of a ſtrong Beam to his battering Ram, did write to an Architect to ſend him the bigger of two Maſts which he had ſeen by him; who conſidering the thing, did ſend the leſſer, as more fit to make that inſtrument of War, contrary to what was commanded him. Incontinently <hi>Craſſus</hi> ſends for the man, and having heard his Reaſons, commanded him to be whipped to death: a ſevere command will ſome ſay, for the Artiſt thought he had done the beſt, by the Precepts of Art. I would grant that, if <hi>Craſſus</hi> had asked Coun<g ref="char:EOLhyphen"/>ſel and not Obedience. The Office of him who commands is corrupted and diſſolved,
+<pb n="75" facs="tcp:45199:42"/>ſays <hi>Agellius,</hi> if any anſwer to what he is commanded with unrequired Counſel, and not with due obedience. From which it may be concluded that nothing ought to be done or ſaid but what was commanded by the Prince. But I think that this Queſtion ſhould be deci<g ref="char:EOLhyphen"/>ded thus: Either he has time to advertiſe his Prince of any new emergent buſineſs, and may expect other Inſtructions; or the thing it ſelf can upon no account be deferred. In the former caſes I doubt not but the Prince
+<note n="†" place="margin">Octavius Magius.</note> ſhould be informed there<g ref="char:EOLhyphen"/>of. But if the buſineſs admit not of that delay, it's better to adhere to his inſtructions. It can hardly be expreſſed how much diſobedience diſpleaſeth Princes. But if the matter be of great conſequence; the hurt which may proceed from thence muſt be conſidered diligently, and care muſt be had that he be not deceived in his opinion, and then that courſe muſt be taken which tends to the manifeſt profit and honour of his Prince, the cauſes whereof muſt be preſently ſignified to him by Letters. But if the profit be dubi<g ref="char:EOLhyphen"/>ous, he muſt not do any thing eaſily beyond his Commiſſion; leſt he endanger his fame and reputation, if any thing fall out unfortu<g ref="char:EOLhyphen"/>nately. For Princes uſe to obſerve, not the Actions, but the Events thereof.</p>
+                  <trailer>The end of the ſecond Part.</trailer>
+               </div>
+            </div>
+            <div n="3" type="part">
+               <pb n="76" facs="tcp:45199:43"/>
+               <head>OF MARTIAL PROWESS AND LEARNING.</head>
+               <head type="sub">PART III.</head>
+               <div type="introduction">
+                  <head>The INTRODUCTION.</head>
+                  <p>MAny Men are perſwaded that the an<g ref="char:EOLhyphen"/>cient Writers have treated ſo grave<g ref="char:EOLhyphen"/>ly and accurately of every thing belonging to human life, that there is no ſubject almoſt left to after-ages, (though perhaps no leſs learned) wherein to exerciſe their Wit, Parts, and Learning; concluding it moſt ne<g ref="char:EOLhyphen"/>ceſſary to admire, believe, and reſt in Anti<g ref="char:EOLhyphen"/>quity. Yet, as the honour of doing valiant<g ref="char:EOLhyphen"/>ly is no robbery of the <hi>Hero's</hi> of ancient times, but their fortiude rather ſet as an ex<g ref="char:EOLhyphen"/>ample to be imitated by brave Martial Spi<g ref="char:EOLhyphen"/>rits; ſo the Learning of the Ancients ſhould
+<pb n="77" facs="tcp:45199:43"/>not be neglected, but ſhould move Men qua<g ref="char:EOLhyphen"/>lified with literature, not only to follow their footſteps, but animate us, if poſſible, to ex<g ref="char:EOLhyphen"/>ceed them for the benefit of our Age and Country. Now, though I (for my part) come far ſhort of the Ancients in either; yet I hope I ſhall be pardoned if I, a little, in this third and laſt part of my diſcourſe, en<g ref="char:EOLhyphen"/>deavour what I think neceſſary for publick good.</p>
+                  <p>Seeing therefore it's often inquired, whe<g ref="char:EOLhyphen"/>ther <hi>Mars</hi> or <hi>Minerva</hi> is the more profitable to Mankind, and whether Souldiers or Gown-men ought to have the precedency: We ſhall in ſhort declare what is probably and uſually alledged on both ſides, for the ſa<g ref="char:EOLhyphen"/>tisfaction of thoſe to whom the naked truth is more acceptable than common opinion; whereas I hope I may, in ſome meaſure, an<g ref="char:EOLhyphen"/>ſwer the expectation of the curious, as alſo confirm my ſelf in the love of virtue.</p>
+                  <p>When this viſible World could not ſubſiſt without order, and human pravity grew day<g ref="char:EOLhyphen"/>ly to be the moſt Potent, God, after the Flood, ordained politick Government and Princi<g ref="char:EOLhyphen"/>palities, to contain the rebellious in their du<g ref="char:EOLhyphen"/>ty, and to puniſh publick Enemies endeavour<g ref="char:EOLhyphen"/>ing the deſtruction of Mankind; and then through proceſs of time Families were col<g ref="char:EOLhyphen"/>lected in one Society, Laws were eſtabliſhed, and Judges and Governours were appointed.
+<pb n="78" facs="tcp:45199:44"/>And becauſe God and Nature did endue e<g ref="char:EOLhyphen"/>very man with a gift to exerciſe ſome pecu<g ref="char:EOLhyphen"/>liar Art, Faculty, or Science; and that there is no man who doth not ſtand in need of the help of another,
+<note place="margin">Ariſt. <hi>Polit. cap.</hi> 2. Au<g ref="char:EOLhyphen"/>guſt. <hi>lib.</hi> 15. <hi>de civit. Dei.</hi>
+                     </note> divers Degrees and Orders of Societies were af<g ref="char:EOLhyphen"/>terwards appointed, which be<g ref="char:EOLhyphen"/>ing ſociably joyn'd amongſt themſelves, at length made a City or Commonwealth, ſuch as are mentioned by <hi>Plato, Ariſtotle, Xenophon,</hi> and <hi>Polybius.</hi> Yet it is moſt certain, that Mi<g ref="char:EOLhyphen"/>litary Virtue and Learning did exceed all o<g ref="char:EOLhyphen"/>ther Faculties, invented either to ſuſtain or a<g ref="char:EOLhyphen"/>dorn Civil Life.</p>
+               </div>
+               <div n="1" type="chapter">
+                  <head>CHAP. I. <hi>Whether</hi> Mars <hi>or</hi> Minerva <hi>are to be pre<g ref="char:EOLhyphen"/>ferred.</hi>
+                  </head>
+                  <p>BUt although a Commonwealth ſtand in need of both alike, and both ought e<g ref="char:EOLhyphen"/>qually to be honoured; yet it has come to paſs, through Pride and Ambition, (which two Vices ſprung chiefly from the depravati<g ref="char:EOLhyphen"/>on of Humane Nature) that Military men have not ſo much deſerved, as uſurped the firſt place, having deſpiſed and contemned
+<pb n="79" facs="tcp:45199:44"/>thoſe, who applying themſelves to Learning with no leſs pains and danger, have done ex<g ref="char:EOLhyphen"/>cellent ſervice to their Country. On the contrary, Learned men complain, that they are defrauded of their due honour, and en<g ref="char:EOLhyphen"/>deavour to recover the ſame: It is neceſſary therefore to ſearch out the Reaſons of this Controverſie.</p>
+                  <p>We come now to the Arguments of both Parties: The firſt for the Military Preroga<g ref="char:EOLhyphen"/>tive is thought to be Antiquity; for <hi>Nimrod,</hi> the Son of <hi>Chus,</hi> by his Martial Proweſs ſub<g ref="char:EOLhyphen"/>dued Nations, and brought in the uſe of Arms.</p>
+                  <p>An other very ſtrong Argument is, that Empires are commanded by Arms, as with a Bridle, and ſo tranſmitted to Poſterity, of which we are furniſhed with almoſt innu<g ref="char:EOLhyphen"/>merable examples out of Hiſtories, as well Sacred as Prophane. But the moſt remarka<g ref="char:EOLhyphen"/>ble is, the counſel of <hi>Panſa</hi> and <hi>Hircius,</hi> which Experience proved. Thoſe men did perſwade <hi>Julius Caeſar</hi> to govern by Arms the Empire of <hi>Rome</hi> obtain'd by his Martial Virtue; when he by doing the contrary, was the cauſe of his own deſtruction.</p>
+                  <p>Thirdly, they ſay, by Arms our Country is defended; and when our Enemies are o're<g ref="char:EOLhyphen"/>come, and all danger removed, a general ſafety is procured. Examples are in readi<g ref="char:EOLhyphen"/>neſs to any read in Hiſtory. On the con<g ref="char:EOLhyphen"/>trary,
+<pb n="80" facs="tcp:45199:45"/>Countries wanting Military defence, are expoſed to the Rapine of Enemies. Poor <hi>Hungaria</hi> gives an example of this; and ma<g ref="char:EOLhyphen"/>ny think that the boldneſs of the <hi>Turk</hi> had not ſucceeded ſo far, if <hi>Ladiſlaus</hi> the Suc<g ref="char:EOLhyphen"/>ceſſor of <hi>Mathias Corvinus</hi> in that Kingdom, had obſerved more diligently Military Diſci<g ref="char:EOLhyphen"/>pline.</p>
+                  <p>Fourthly, It makes much for Souldiers, that the World admires Power, War-like Glory, and Triumphs; which becauſe noto<g ref="char:EOLhyphen"/>rious, needs no probation.</p>
+                  <p>Fifthly, The Art Military conſiſts in the active part, when the knowledge of Learn<g ref="char:EOLhyphen"/>ing is only buſied with meer Contemplation; therefore Martial Proweſs is the more ho<g ref="char:EOLhyphen"/>nourable.</p>
+                  <p>Sixthly and laſtly, Brave War-like actions make men immortal, and therefore the more to be eſteemed.</p>
+                  <p>I anſwer to what was ſpoken in the firſt place of Antiquity, that it is very much con<g ref="char:EOLhyphen"/>troverted, whether Learning had its Birth after the expedition of <hi>Nimrod,</hi> who began to Reign in <hi>Babylon,</hi> or invented by the <hi>Ae<g ref="char:EOLhyphen"/>thiopians,</hi> as <hi>Diodorus Siculus</hi> aſſerts in his <hi>fourth Book,</hi> or taught firſt by <hi>Moſes,</hi> according to
+<note n="*" place="margin">
+                        <hi>Lib.</hi> 8. <hi>&amp;</hi> 10.</note> 
+                     <hi>Euſebius.</hi> For <hi>Joſephus</hi> in his <hi>firſt Book</hi> of <hi>Antiquity</hi> ſays, that Letters were in uſe before the Flood; and that the Sons of <hi>Seth,</hi>
+                     <pb n="81" facs="tcp:45199:45"/>the Son of <hi>Adam,</hi> did write in two Pillars, one of Stone, and the other of Brick, the nature of the Heavens, and the motion of the Stars. <hi>Epigenes</hi> alſo makes mention, that there were Obſervations of the Stars many years before the Flood; from which it appears, that the uſe of Letters has been from the beginning, which are the words of <hi>Pliny</hi> in the <hi>ſeventh Book</hi> of his <hi>Natural Hiſtory.</hi> It might therefore be, that <hi>Moſes</hi> or <hi>Abraham,</hi> to whom <hi>Philo</hi> attri<g ref="char:EOLhyphen"/>butes the invention of Letters, did reſtore thoſe again which periſhed in the Flood, which were transferred from the <hi>Syrians</hi> to the <hi>Phoe<g ref="char:EOLhyphen"/>nicians,</hi> and from them to the <hi>Graecians</hi> by <hi>Cadmus;</hi> and then inriched and further propa<g ref="char:EOLhyphen"/>gated by <hi>Palamedes</hi> in the time of the <hi>Trojan War.</hi> But to conclude, it's agreed upon, that time only doth not introduce true Pre-emi<g ref="char:EOLhyphen"/>nence, that Excellency which is requiſite be<g ref="char:EOLhyphen"/>ing wanting.</p>
+                  <p>The ſecond Argument is refuted thus, Arms only are not ſufficient, nor are great exploits done by them only. Moreover in time of War when Martial proweſs doth act, barbarity reigns, Countries are laid waſte, Juſtice neg<g ref="char:EOLhyphen"/>lected, and horrid Cruelties committed. <hi>Ita<g ref="char:EOLhyphen"/>ly</hi> of old, the Miſtreſs of the Univerſe, did give a moſt clear teſtimony of this, when it was delacerated ſo miſerably by thoſe Nor<g ref="char:EOLhyphen"/>thern People the <hi>Goths, Huns, Vandals,</hi> and <hi>Lombards.</hi> On the contrary, in time of Peace
+<pb n="82" facs="tcp:45199:46"/>Learning flouriſheth, and Juſtice is admini<g ref="char:EOLhyphen"/>ſtred. Moreover Affairs happen often, which require learning and prudence more than armed force. Hence is that of <hi>Cicero</hi> in his firſt Book <hi>de Officiis, Cedant arma togae, con<g ref="char:EOLhyphen"/>cedat laurea linguae,</hi> that is, <hi>Let Arms give place to the Gown, and let the Laureat Soul<g ref="char:EOLhyphen"/>dier give place to the eloquent Orator.</hi> Neither when the Sword rages can Princes want the in<g ref="char:EOLhyphen"/>duſtry of learned men, for in declaring, ma<g ref="char:EOLhyphen"/>naging, and ending the War, there is great need of ſuch. Wherefore the ancient <hi>Greci<g ref="char:EOLhyphen"/>ans</hi> did ſo join both Arts together, that there<g ref="char:EOLhyphen"/>by they not only overcame the <hi>Perſians,</hi> but alſo ſubdued other Warlike Nations. The <hi>Romans</hi> famous for their Martial Valour were alſo no leſs learned: for (according to the Comick Poet) its nothing to be brave abroad, unleſs men be wiſe at home. And as reaſon and judgment are more excellent than the ſtrength of the body, or boldneſs in fight: So a Scholar is more to be honoured than a Souldier. <hi>John Galeaſs</hi> Duke of <hi>Millan,</hi> be<g ref="char:EOLhyphen"/>ing an Enemy of the <hi>Florentines,</hi> uſed to ſay, <hi>That he received more hurt by the Letters of</hi> Collutius Pierius, <hi>than by a thouſand armed Souldiers:</hi> To confirm which, we ſhall bring in that ſaying of the moſt wiſe <hi>Cato</hi> in his Oration againſt <hi>Catoline; Non ſolis armis Reſ<g ref="char:EOLhyphen"/>publica Romana crevit, ſedalia fuere qua illos magnos fecere, domi induſtria, foris juſtum im<g ref="char:EOLhyphen"/>perium,
+<pb n="83" facs="tcp:45199:46"/>animus in conſulendo liber, neque delicto neque libidini obnoxius.</hi> The <hi>Roman</hi> Common<g ref="char:EOLhyphen"/>wealth did not increaſe by Arms only, but there were other things which made it great; induſtry at home, a juſt command abroad, freedom in Conſultations, obnoxious to nei<g ref="char:EOLhyphen"/>ther Crimes nor unlawful deſires. <hi>Florus</hi> ſays, <hi>That Empires were obtained by ſtrength, but preſerved by equity and juſtice.</hi> Wiſe Antiqui<g ref="char:EOLhyphen"/>ty made uſe of the Fiction of <hi>Pallas,</hi> whom they made the <hi>Praeſes</hi> of War and Learning.</p>
+                  <p>Thirdly, It was argued for Military Vir<g ref="char:EOLhyphen"/>tue, that our Country was defended by Arms. We grant this partly, but yet not by Arms only, as appears from what is already ſpo<g ref="char:EOLhyphen"/>ken. For if defence (according to the anci<g ref="char:EOLhyphen"/>ent Military Law) is better than offence, it certainly conſiſts more in counſel and pru<g ref="char:EOLhyphen"/>dence, than in fighting. It has been the de<g ref="char:EOLhyphen"/>ſtruction of many, and of their Country al<g ref="char:EOLhyphen"/>ſo, to truſt to the hazard of a Battel. Again, Arms are more eaſily taken up, than laid down; therefore its moſt uncertain to put confidence in Arms only.</p>
+                  <p>Fourthly, it was argued for martial proweſs, that War-like Glory is in greater admiration than Learning. To which I anſwer, that whereas Kings and Princes do honour the one more than the other, that is occaſioned through Ambition, or greedy deſire of command: neither can Glory purchaſed by Arms be of
+<pb n="84" facs="tcp:45199:47"/>long continuance without Prudence and Learn<g ref="char:EOLhyphen"/>ing; for it's the opinion of the judicious, that military diſcipline, (from whence War-like Glory doth flow as from its Fountain) did take its original from <hi>Homer.</hi> That learned man <hi>Alianus</hi> did teach the Emperour <hi>Adrian</hi> an ex<g ref="char:EOLhyphen"/>cellent military order of drawing up of Soul<g ref="char:EOLhyphen"/>diers, in equal proportions and juſt diſtances. The <hi>Macedonian Phalanx</hi> (which <hi>Alexander the great</hi> made uſe of with ſo much ſucceſs and glory) is thought to have proceeded from one verſe of <hi>Homer. Iohannes Bodinus</hi> in <hi>method. hiſt.</hi> makes mention, that <hi>Selimus</hi> cauſing <hi>Caeſars</hi> Commentaries to be tranſlated into his own natural Language, was ſo ex<g ref="char:EOLhyphen"/>pert in his manner of warfare, that in a ſhort time he joined a great part of <hi>Africk</hi> and <hi>Aſia the leſs</hi> to the Empire of his Predeceſſors. <hi>Valerius Maximus</hi> makes mention that <hi>Lucius Paulus</hi> had not routed the <hi>Perſians,</hi>
+                     <note place="margin">
+                        <hi>Lib.</hi> 6.</note> if <hi>Gallus Sulpitius</hi> the Philoſopher, had not remov'd that fear in the <hi>Roman</hi> Camp, proceeding from a ſudden Eclipſe of the Moon, by diſcourſing elegant<g ref="char:EOLhyphen"/>ly of the nature of the Heavens, and the cauſe of that change.</p>
+                  <p>The anſwer to the fifth Argument is eaſie. For we ſpeak not of that Learning which con<g ref="char:EOLhyphen"/>ſiſts merely in the Idea's of the mind, or in fan<g ref="char:EOLhyphen"/>taſtick <hi>Ariſtotelian notions,</hi> but of ſuch as joyns knowledge and practice together, which
+<pb n="85" facs="tcp:45199:47"/>will not always be kept in obſcurity, but will ſhine at length, to the good of the Republick, <hi>Ageſilaus</hi> King of the <hi>Lacedemonians</hi> ſaid (when it was debated whether Juſtice or For<g ref="char:EOLhyphen"/>titude had the precedency) <hi>that there was no need of Fortitude, if all men would adhere to Juſtice. Baldus</hi> affirm'd, <hi>that Common wealth ſtood more in need of Gown-men, than Souldiers, becauſe times of peace are of longer continuance than thoſe of War.</hi>
+                  </p>
+                  <p>The true glory of Ancient Princes chiefly conſiſted in the honour, they paid to Learning and learned men, and in that they uſed their Councel and Aſſiſtance in governing their Kingdoms. For as in Diſeaſes of the Body one skiful Phyſitian is better than a thouſand Mountebanks; ſo when the whole Common<g ref="char:EOLhyphen"/>wealth is affected, one learned Gown-man is worth a numerous Army. <hi>Lampridius</hi> ſays, that the good Emperor <hi>Aurelius,</hi> and the brave <hi>Severus,</hi> did always converſe familiary with prudent and learned men, and in civil Affairs did uſe the Councel of learned men only; but in any military buſineſs (beſides old Officers) they conſulted alſo the learned. Many Kings at the point of Death have recommended their Children and Succeſſors to learned mens tuiti<g ref="char:EOLhyphen"/>on, calling them not only their Friends and Fa<g ref="char:EOLhyphen"/>thers, but alſo their beſt Treaſure. On the contrary vitious Princes have vilipended learn<g ref="char:EOLhyphen"/>ed Men, and eſteemed it more laudable to ex<g ref="char:EOLhyphen"/>toll
+<pb n="86" facs="tcp:45199:48"/>toll thoſe, who were moſt agreable to their pernicious inclinations, whoſe ſervice they could uſe in the perpetration of their crimes, and oppreſſion of their Subjects.</p>
+                  <p>We are to anſwer now to the objection of the immortality of war-like Proweſs; thus we muſt be forc'd to confeſs, if we behold the perpetual memory of both, that it is rather contain'd in Learning than in martial Proweſs. To the former we are indebted for the re<g ref="char:EOLhyphen"/>membrance of what is either well or ill done, and ſo without it the Art of Governing would be imperfect, and next to Oblivion. Who would have known the <hi>Caeſars,</hi> (ſays <hi>Pliny the ſecond,</hi> in his <hi>Epiſtle</hi> to <hi>Cornelius Priſ<g ref="char:EOLhyphen"/>cus</hi>) if <hi>Suetonius</hi> had not liv'd? Who would have known <hi>Scipio</hi> and <hi>Pompey,</hi> ſo famous for their great triumphs, if Learned Men had not written in their praiſe? And ſeeing the acts of fortitude in one Individual, are only du<g ref="char:EOLhyphen"/>ring the life of one Man, whatever is written for the benefit of the Republick is continual, according to <hi>Vigetius,</hi> in his ſecond Book <hi>de re militari.</hi>
+                  </p>
+                  <p>And, though amongſt the <hi>Scythians,</hi> and o<g ref="char:EOLhyphen"/>ther fierce and barbarous Nations, Arms had the precedency; and that by an ancient <hi>Aethiopian</hi> Statute thoſe were made, Kings who exceeded others in the ſtature of Body; yet, on the contrary, amongſt the <hi>Gracians, Aegyptians, Indians,</hi> and <hi>Perſians</hi> (according
+<pb n="87" facs="tcp:45199:48"/>to <hi>Bonſinus</hi>) Wiſdom and Learning were ſo much prefer'd, that they did chuſe Kings from the Altars of their Gods, and Schools of Philoſophers. For Learning infuſeth into Men the ſenſe of a Divinity, informs their Manners, and conſerves the Common-wealth. The <hi>Lacedemonians</hi> (by the Law of <hi>Lycur<g ref="char:EOLhyphen"/>gus</hi>) did not give honours to the rich and po<g ref="char:EOLhyphen"/>tent, but to thoſe endued with Prudence and Virtue. And in the <hi>Indian</hi> Kingdoms and Countries, found out by the <hi>Portugueſſes,</hi> Learning is in great eſteem; for none there, without it, can obtain any Office, much leſs the
+<note n="*" place="margin">
+                        <hi>Oſor. lib.</hi> 3. <hi>de gloria.</hi>
+                     </note> Principality. <hi>Homer</hi> the Father of Poets makes <hi>Pal<g ref="char:EOLhyphen"/>las</hi> always a Friend to <hi>Achilles</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>lyſſes,</hi> which he did be<g ref="char:EOLhyphen"/>cauſe they were Men of reaſon, and good Counſel. And in his 2. <hi>lib. Iliadum Agamemnon</hi> deſires in his Army not ten <hi>Ajaces,</hi> but <hi>Ne<g ref="char:EOLhyphen"/>ſtores.</hi> And the Wiſdom of <hi>Aeneas</hi> is ſaid to have been of more uſe in the defence of <hi>Troy,</hi> than the valour and ſtrength of <hi>Hector.</hi> The Common-wealth of <hi>Venice</hi> ſeems to be of longer continuance than that of <hi>Rome,</hi> not ſo much for her martial Valour, as politick Government.</p>
+                  <div n="1" type="section">
+                     <pb n="88" facs="tcp:45199:49"/>
+                     <head>SECT I. <hi>Shewing the People incline either to</hi> Mars <hi>or</hi> Mercury, <hi>as their Prince is inclined.</hi>
+                     </head>
+                     <p>Thus conſidering what is already ſpoken, it will not be difficult to find out what Profeſ<g ref="char:EOLhyphen"/>ſion is the better. But now Learned Men, to the ſhame of a Nation, do vail to Souldiers, give them a tacit renunciation of their right, and acquieſce in the vulgar Opinion, which is, for the moſt part, ever falſe.</p>
+                     <p>I would allow indeed, that our Nobility and Gentry following the Wars for the ſafety of their King and Country, ſhould not be defrau<g ref="char:EOLhyphen"/>ded of their due honour, ſo as Gown-men on the other ſide be not wrong'd, and vilipended; and I do think that neither Party ſhould per<g ref="char:EOLhyphen"/>mit the other to give their judgment in their own proper cauſe, which I ſhall in this place forbear alſo to do, and only ſay, <hi>That Men are ſtir'd up to thoſe Profeſſions and Arts which are in greateſt eſteem for the time;</hi> according to <hi>Plato</hi> in his 4th. Book <hi>de Republica. Nero</hi> declaimed in the firſt year of his Reign, ac<g ref="char:EOLhyphen"/>cording to the Example of <hi>Pompey the Great,</hi> and <hi>Auguſtus Caeſar,</hi> and immediately there was ſuch abundance of Orators, and the Stu<g ref="char:EOLhyphen"/>dy of Eloquence ſo flouriſh'd, that many from
+<pb n="89" facs="tcp:45199:49"/>low fortunes were made Sena<g ref="char:EOLhyphen"/>tors,
+<note n="*" place="margin">Sueto. de clara Rheter.</note> and obtain'd great ho<g ref="char:EOLhyphen"/>nours. In the Reign of <hi>Charles</hi> the fifth all his Courtiers did learn the <hi>French</hi> Tongue, becauſe the Empe<g ref="char:EOLhyphen"/>rour himſelf delighted in it. So <hi>Ariſtotle</hi> truly ſaid, that
+<note n="*" place="margin">
+                           <hi>lib.</hi> 2. <hi>Polit. c.</hi> 9.</note> the inclinations of Princes were examples to his Subjects: becauſe the Life of a Prince is a perpetual Law or Decree concerning Manners, as <hi>Pliny</hi> doth elegantly ſhow <hi>Trajan</hi> and <hi>Claudian,</hi> wittily in his admonition to <hi>Honorius.</hi>
+                     </p>
+                     <q>
+                        <l>
+                           <hi>Componitur Orbis,</hi>
+                        </l>
+                        <l>
+                           <hi>Regis ad exemplum, nec ſic inflectere ſenſus,</hi>
+                        </l>
+                        <l>
+                           <hi>Humanos edicta valent, ut vita regentum,</hi>
+                        </l>
+                        <l>
+                           <hi>Mobile mutatur ſemper cum Principe vulgus.</hi>
+                        </l>
+                     </q>
+                     <q>
+                        <l>Men follow ſtill the footſteps of their King,</l>
+                        <l>Nor are Laws able humane minds to bring</l>
+                        <l>Under command, ſo much as his life, why?</l>
+                        <l>The Vulgar with the Prince doth change alway.</l>
+                     </q>
+                     <p>Count <hi>Palavicin</hi> is introduced in <hi>Caſtilion</hi>'s Courtier, and alledging ſome ſubtile reaſons, doth conclude that Arms had the precedency, yet he courteouſly avoids the opinion of <hi>Pe<g ref="char:EOLhyphen"/>trus Bembus</hi> his Colloquutor. For this man doth quote <hi>Alexander</hi> the Great, who did not envy <hi>Achilles</hi> for the glory of his martial for<g ref="char:EOLhyphen"/>titude,
+<pb n="90" facs="tcp:45199:50"/>but that he had <hi>Homer</hi> for a publiſher of his praiſes. The Author alſo in his true Courtier (wherein he repreſents the Idea of a Prince) requires Letters to go hand in hand as inſeperable Companions. The Emperour <hi>Fre<g ref="char:EOLhyphen"/>derick</hi> the third uſed to ſay; <hi>that he could in one hour make many Souldiers, but that in his whole life he could never make a Polititian. Caeſar,</hi> ſays <hi>Heliodor,</hi> can give Riches and Honours, but he cannot make an Orator.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <head>SECT. II. <hi>Learning has by many been ſlighted, and by as many eſteemed.</hi>
+                     </head>
+                     <p>But Letters have had powerful Adverſaries, and what is good pleaſeth but few. The Em<g ref="char:EOLhyphen"/>perour <hi>Licinus</hi> call'd them a publick plague. <hi>Valerianus</hi> was alſo a great Enemy to learning. And it is ſaid that <hi>Nero's</hi> Mother diverted him from the ſtudy of Philoſophy. <hi>Luis</hi> the ele<g ref="char:EOLhyphen"/>venth King of <hi>France</hi> would not have his Son <hi>Charles</hi> the eighth inſtructed in Letters and li<g ref="char:EOLhyphen"/>beral Sciences. And the Father of <hi>Eberhart,</hi> Count of <hi>Wittenberg,</hi> did upon his Death-bed bind his Councellors by an Oath, that they ſhould not permit his Son to learn the Latine Tongue.</p>
+                     <p>How much more is the Judgment of <hi>Alex<g ref="char:EOLhyphen"/>ander
+<pb n="91" facs="tcp:45199:50"/>the great,</hi> (though moſt deſirous of mili<g ref="char:EOLhyphen"/>tary glory) to be eſteemed. For writing to his Maſter <hi>Ariſtotle,</hi> he told him that it was his deſire rather to excel in Knowledge, than in Arms. That Myrrour of Princes, <hi>Alphon<g ref="char:EOLhyphen"/>ſus</hi> King of <hi>Arragon,</hi> did prudently affirm, that he would rather loſe his Kingdom, than be ignorant of that Learning with which he was indu'd. The Emperour <hi>Leo,</hi> and his Son <hi>Conſtantine,</hi> deſired nothing more than to ad<g ref="char:EOLhyphen"/>vance Learning: And their Succeſſor to their Empire and Vertue, did give admirable re<g ref="char:EOLhyphen"/>ſpect to Learned men, ſaying, that he had ra<g ref="char:EOLhyphen"/>ther be famous by his Learning, than by his Empire, as <hi>Baptiſta Egnatius</hi> relates in the Lives of the <hi>Caeſars. Jovius</hi> in his Elogies of Martial <hi>Hero's,</hi> obſerves the ſaying of <hi>Mathias</hi> King of <hi>Hungaria,</hi> that a King could not be famous in War, unleſs fortified with Learn<g ref="char:EOLhyphen"/>ing; he knew the manner of War-fare of e<g ref="char:EOLhyphen"/>very Age, and the very Stratagems of the Ancients drawn out of Hiſtories, ſeeing thoſe Experiments, which would be of great uſe in War, cannot be underſtood but by long Ex<g ref="char:EOLhyphen"/>perience, which could eaſily be comprehended by reading the examples of Antiquity: There<g ref="char:EOLhyphen"/>fore many Princes in the managing of difficult Affairs, have too late bewail'd that they did not in their Youth apply themſelves to Learn<g ref="char:EOLhyphen"/>ing: Inſomuch that ſome in more mature years have not been aſham'd to learn the Latin
+<pb n="92" facs="tcp:45199:51"/>Tongue, as did that Noble Elector of <hi>Saxo<g ref="char:EOLhyphen"/>ny:</hi> For Learning is the Nerves and Arteries of good Government, and the Ornament of Civil Life. For the moſt part, it's deſpair or conſtraint makes a Souldier, which is thought to be the laſt refuge of hope-deſpairing men. We ſee many accuſtomed to unhoneſt actions go to the Wars, but few return with Honour or Riches. Finally, ſuch is for the moſt part the condition of Affairs, that more is loſt than acquired in War, wherein wholeſome counſel ſeldom finds acceptance; nor is it tolerable to erre twice, and wherein (according to <hi>Ju<g ref="char:EOLhyphen"/>lius Caeſar</hi>) Fortune ſhews her unconſtancy moſt: But ſhe has not ſo much power over Learned men, for where ever they go, they carry all along with them, and even in Ship<g ref="char:EOLhyphen"/>wrack they loſe not any thing, when Souldiers are in a perpetual fear of loſing all.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <head>SECT. III. <hi>Shewing ſome Noble Souls to be</hi> tam <hi>Marte,</hi> quam <hi>Mercuria</hi>
+                     </head>
+                     <p>But ſome men do argue, that there are many Souldiers, who with great honour have joyn'd Martial Proweſs and Learning toge<g ref="char:EOLhyphen"/>ther; therefore that Learned men only are to be Poſt-pon'd.</p>
+                     <pb n="93" facs="tcp:45199:51"/>
+                     <p>To which it's anſwered, that many have endeavour'd, but few obtain'd that honour. For <hi>Nature</hi> (according to <hi>Plato) produces men regularly qualified for one Art or Science only, and making haſt to two ſo different, ſhe perfects neither well:</hi> Amongſt the Ancient <hi>Graecians, Pericles, Xenophon,</hi> and <hi>Thucidides;</hi> amongſt the <hi>Romans, Julius Caeſar, Lucullus,</hi> and <hi>Cato,</hi> were eminent in both. And <hi>Vellius Patercu<g ref="char:EOLhyphen"/>lus</hi> in his ſecond Volume of the <hi>Roman Story,</hi> writes after this manner of <hi>Druſus Claudius,</hi> who died in <hi>Germany,</hi> That it was uncertain whether his Genius was more fit for Martial, than Civil Affairs. But commonly, without perpetual exerciſe, to which the ſhort life of Man can hardly be ſufficient, a perfect Soul<g ref="char:EOLhyphen"/>dier, <hi>i. e.</hi> a great Captain, and an excellent Gown-man, able to govern the Helm of Af<g ref="char:EOLhyphen"/>fairs (for we ſpeak as well of Knowledge as of Experience) can hardly be found in one Individual. If any attain to this Heroick Excellency, as <hi>Antonius Duprato,</hi> Great Chan<g ref="char:EOLhyphen"/>cellour to <hi>Francis</hi> the firſt King of <hi>France,</hi> by whoſe Valour the <hi>Suetzers</hi> were over<g ref="char:EOLhyphen"/>thrown in a great Battel, or <hi>Mathaeus</hi> Car<g ref="char:EOLhyphen"/>dinal of <hi>Sedun,</hi> who a little before o're<g ref="char:EOLhyphen"/>came the Army of <hi>Lewis</hi> the Eleventh in <hi>I<g ref="char:EOLhyphen"/>taly;</hi> or if any for the future ſhall be fa<g ref="char:EOLhyphen"/>mous for both thoſe noble and glorious qua<g ref="char:EOLhyphen"/>lities, and thereby ſhall be uſeful to their Country, in equity they ought to be ranked
+<pb n="94" facs="tcp:45199:52"/>above the degree of either ordinary Cap<g ref="char:EOLhyphen"/>tains, or Gown-men. <hi>Perſeus</hi> the Son of <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> having ended the War in <hi>Mauritania</hi> with happy ſucceſs, and obtain'd the King<g ref="char:EOLhyphen"/>dom of the <hi>Argives,</hi> in the end erected a publick School in <hi>Helecon,</hi> and was himſelf famous for his Learning; for which cauſes the Poets feign that he was plac'd amongſt the Stars.</p>
+                  </div>
+                  <div n="4" type="section">
+                     <head>SECT. IV. <hi>The Deciſion of the Controverſie.</hi>
+                     </head>
+                     <p>Having refuted therefore that Objection, it ſeems to give the precedency to Learning, becauſe Souldiers are but the Executioners of Learned Gown men; and therefore the Law ſays, that Souldiers ought to be Defenders, not Lords and Maſters.</p>
+                     <p>Now though it is not our intention to deter<g ref="char:EOLhyphen"/>mine poſitively in ſo difficult a matter, yet we will conclude by a threefold diſtinction, for thereby are contrarieties oft-times accorded. <hi>If I found a Guide,</hi> ſays Socrates, <hi>who knew how to diſtinguiſh aright, I would follow his foot<g ref="char:EOLhyphen"/>ſteps, as thoſe of ſome Deity.</hi>
+                     </p>
+                     <p>The firſt diſtinction is, That men muſt re<g ref="char:EOLhyphen"/>gard the Cuſtom of the place, and accordingly either Souldiers or Learned men are to be pre<g ref="char:EOLhyphen"/>ferred:
+<pb n="95" facs="tcp:45199:52"/>For Cuſtom and Uſe is of no con<g ref="char:EOLhyphen"/>temptible Authority, eſpecially if it be conti<g ref="char:EOLhyphen"/>nued with publick conſent.</p>
+                     <p>The other diſtinction is drawn from the time; for ſometimes Learned men, ſometimes Souldiers are in the greater eſteem. That Vulgar ſaying doth agree to this, <hi>Diſtingue tempora, &amp; quadrabit Scriptura.</hi>
+                     </p>
+                     <p>Thirdly, Acts are diligently to be conſider<g ref="char:EOLhyphen"/>ed; for a Gown-man in any act agreeing to his Calling, is without doubt to be preferred; as on the contrary, a Souldier in Military acti<g ref="char:EOLhyphen"/>ons has the precedency. <hi>Iſocrates</hi> writing to the Lords of <hi>Mytilene,</hi> adviſes them to give the next honour to themſelves to Learned men.</p>
+                     <p>But this notwithſtanding, it cannot be de<g ref="char:EOLhyphen"/>ny'd, but that Military Dignity is of a large extent; for it comprehends Knights, Barons, Earls, Marqueſſes, Dukes, and the very Em<g ref="char:EOLhyphen"/>perour or King himſelf, whereby a certain rule for this Pre-eminency can the leſs be gi<g ref="char:EOLhyphen"/>ven, for it varies daily, according to age, of<g ref="char:EOLhyphen"/>fice, or imployment, favour, dignity, time, place, act, cuſtom, will, pleaſure and inclinati<g ref="char:EOLhyphen"/>on, which nevertheleſs ought not to be preju<g ref="char:EOLhyphen"/>dicial to Gown-men, and that for the publick good, in whoſe favour Degrees and Orders were introduc'd. In this caſe then men muſt have recourſe to Cuſtom, and the before-named diſtinctions.</p>
+                  </div>
+               </div>
+               <div n="2" type="chapter">
+                  <pb n="96" facs="tcp:45199:53"/>
+                  <head>CHAP. II. <hi>Admonition to ſuch as incline either to Learning, or Arms.</hi>
+                  </head>
+                  <p>SEeing therefore due honour is given to ver<g ref="char:EOLhyphen"/>tue, which we will diſtinguiſh into milita<g ref="char:EOLhyphen"/>ry and civil, ingenious youth is to be admo<g ref="char:EOLhyphen"/>niſhed, that the fewer attain to this double dig<g ref="char:EOLhyphen"/>nity, the more earneſtly they may endeavour the ſame, and being of noble Parents they may make themſelves famous by following their foot-ſteps in vertue; and in what Fami<g ref="char:EOLhyphen"/>lies military glory has been reſplendent, they may imitate their Anceſtors, not neglecting Literature, whereby Men are rendred more capable of performing great Enterprizes. Let thoſe who apply themſelves to Learning through their innate inclination, know that a large Field of Glory is Patent to them, unleſs leaving their ſtudy they be drawn to vice, or to do any thing againſt their Vocation. For there cannot be an equal condition of all Men in this Life, nor can this civil Society conſiſt without diſtinction of Perſons and Qualities, that ſome may command, others obey. And ſeeing the Office of Magiſtracy is divided into Laws divine and humane, conſiſting morally in the defence of the innocent, and puniſhment of
+<pb n="97" facs="tcp:45199:53"/>the wicked, the Common-wealth cannot well want either order.</p>
+                  <div n="1" type="section">
+                     <head>SECT. I. <hi>What true Nobility is, by way of Digreſſion.</hi>
+                     </head>
+                     <p>But it will not (I hope) be altogether im<g ref="char:EOLhyphen"/>pertinent in this place to make a ſhort Di<g ref="char:EOLhyphen"/>greſſion concerning true Nobility, which I ſhall touch in few words.</p>
+                     <p>Firſt therefore, where the excellency of Virtue is abſent, the reward thereof, <hi>i. e.</hi> the honour of Nobility, is due to no Man, and ſo the cauſe ceaſing, the effect alſo ceaſes.</p>
+                     <p>Secondly, the inveterate Cuſtome of making Men of good Birth, and void of Virtue noble, ſeems unreaſonable; therefore it's either abſo<g ref="char:EOLhyphen"/>lutely to be cancell'd, or reduc'd to the ſquare of Equity.</p>
+                     <p>Thirdly, Riches ought not to come into con<g ref="char:EOLhyphen"/>ſideration, for they are things ſeparated from Nobility; and in reſpect thereof Merchants or Mechanicks abounding in Riches, yea baſe Fellows uncapable of Dignities may be called Noble, becauſe Riches are fluent and muta<g ref="char:EOLhyphen"/>ble, and Virtue immovable and permanent. There was no entry to the Temple of Honour at <hi>Rome</hi> but through that of Virtue, thereby ſignifying that there was no true Honour with<g ref="char:EOLhyphen"/>out Virtue.</p>
+                     <pb n="98" facs="tcp:45199:54"/>
+                     <p>Fourthly, if Men conſider Power of it ſelf, it cannot make true Nobility, yet the com<g ref="char:EOLhyphen"/>mon error has taken ſuch deep root, that it can hardly be eradicated. But every Man is more to be eſteemed for what he has acquired by his own virtue, than of what is left him by his An<g ref="char:EOLhyphen"/>ceſtors.</p>
+                     <q>
+                        <bibl>† <hi>Ovid.</hi> 13. <hi>Meta.</hi>
+                        </bibl>
+                        <l>
+                           <hi>Nam genus &amp; proavos &amp; quae non † fecimus ipſi,</hi>
+                        </l>
+                        <l>
+                           <hi>Vix ca noſtra voco.</hi>
+                        </l>
+                     </q>
+                     <q>
+                        <l>Our birth, and what doth not from us proceed,</l>
+                        <l>Can with ſmall reaſon be call'd ours indeed.</l>
+                     </q>
+                     <p>The Vulgar doth abuſe the name of true No<g ref="char:EOLhyphen"/>bility, and judges according to the objects; when notwithſtanding true Nobility conſiſts not in what is only external, as Antiquity, Riches, great Poſſeſſions, and Dignities, but requires an interiour perfection. Yet we ſee unworthy men honoured, and he is for the moſt part of leſs eſteem who is endued with wiſdom and learning, if poor, than a rich per<g ref="char:EOLhyphen"/>ſon with an empty head. I would not what is ſaid to be otherways underſtood, than that the preſumption of high birth ſhould ſo long have place, as men nobly born ſhew themſelves worthy of the honour they by their birth aſ<g ref="char:EOLhyphen"/>ſume, and then its juſt to uſe them with all ho<g ref="char:EOLhyphen"/>nour and reſpect.</p>
+                     <pb n="99" facs="tcp:45199:54"/>
+                     <p>But (according to <hi>Mathaeus de afflictis) the firſt ſpecies of Nobility flows from divine wiſdom; The ſecond from true Vertue; The third from dignity and ſecular Power; The fourth from his Lands and Poſſeſſions which he holds immediately of his Prince; The fifth from Military Orders or Degrees.</hi> I ſpeak of ſuch who have Com<g ref="char:EOLhyphen"/>miſſions from the King or Common-wealth; for to be a private Souldier, is rather a ſlavery than an honour. <hi>The ſixth is from the Antiquity of Noble Progenitors, which if join'd with ver<g ref="char:EOLhyphen"/>tue</hi> (according to <hi>Baldus) makes true Nobility, who calls it generoſity adorned with magnanimity. The ſeventh ſpecies proceeds from their Office or Calling.</hi> I ſhall ſay no more, but refer the cu<g ref="char:EOLhyphen"/>rious to that famous Treatiſe of <hi>Andreas Tira<g ref="char:EOLhyphen"/>quillus</hi> concerning this ſubject.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <head>SECT. II. <hi>Of the tragical fates of many brave men, both Stateſmen and Martial.</hi>
+                     </head>
+                     <p>NOW (as we hinted before) Civil Go<g ref="char:EOLhyphen"/>vernment conſiſts in Gown-men and Souldiers; for as humane health conſiſts in the harmony of the body and ſoul, and as the heart and brain are refreſh'd with ſweet O<g ref="char:EOLhyphen"/>dours and Oyntments, and as humane actions are better performed by the right diſpoſition of
+<pb n="100" facs="tcp:45199:55"/>the mind; ſo in the prudent conjunction of thoſe two noble Qualifications doth the health<g ref="char:EOLhyphen"/>ful temperature of the Politick Body conſiſt. <hi>Juſtice</hi> and <hi>Fortitude</hi> are famous Vertues, and <hi>Auguſtus Caſar</hi> is much commended by <hi>Sueto<g ref="char:EOLhyphen"/>nius</hi> for both. If Learning for ſome contrary Cuſtom is not ſo much eſteemed as Martial Proweſs, yet is it neceſſary in a well-govern<g ref="char:EOLhyphen"/>ed Common-wealth, that they walk hand in hand. I am not able to extort the Sword from the Souldier, or willing to extol the Learned to the others prejudice: for the one is join'd with dangers, the other with pains and watch<g ref="char:EOLhyphen"/>ings. Moreover for many and juſt cauſes I am to acquieſce in the opinion of others, leſt in the deciſion of ſo difficult a Queſtion, I in<g ref="char:EOLhyphen"/>cur the hatred and diſdain of the more learned and judicious.</p>
+                     <p>Firſt therefore, I obſerve, that both were ordained by God, and both neceſſary to the Common-wealth. <hi>The greatest defence of the Republick</hi> (ſays the Lawyer) <hi>proceeds from Martial Proweſs and Juſtice. Both have a law<g ref="char:EOLhyphen"/>ful Function, becauſe our Saviour at his coming did not abrogate Civil Politie,</hi> as <hi>Julian</hi> the Apo<g ref="char:EOLhyphen"/>ſtate and his impious Paraſites blaſphemouſly cryed out. <hi>Chriſt</hi> approves of warfare in the Centurion: Nature teaches this in irrational Creatures. The Bees bred only to the uſe of mankind, have their King, their Camps, their Officers, they march out to Battel, draw to<g ref="char:EOLhyphen"/>gether,
+<pb n="101" facs="tcp:45199:55"/>fight abroad, toil and labour at home; they reward induſtry, and puniſh idleneſs. So War is approved by the Law of Nations, pro<g ref="char:EOLhyphen"/>vided it be juſt, and undertaken by the com<g ref="char:EOLhyphen"/>mand of the Prince or Common-wealth. So learned men do exerciſe a no leſs lawful and beautiful Function, for without ſuch the world would be a Chaos of confuſion.</p>
+                     <p>Secondly, Souldiers ought to be contented with their pay, and ought not to wrong or op<g ref="char:EOLhyphen"/>preſs any. So a Miniſter of State ſhould be contented with his Salary, and not to extend his hands to iniquity.</p>
+                     <p>Thirdly, An excellent Souldier and Scholar are in great eſteem, both at home and abroad, and obtain perpetual honour. <hi>Pyrates</hi> deſired to ſee <hi>Scipio</hi> the <hi>African,</hi> when he lived in his eclipſed glory at <hi>Linternum.</hi> And certain No<g ref="char:EOLhyphen"/>bles came from the remoteſt parts of <hi>Spain,</hi> not to ſee <hi>Rome</hi> the moſt glorious City of the Uni<g ref="char:EOLhyphen"/>verſe, but <hi>Livius</hi> famous for his Eloquence. And ſuch is the ſweetneſs of Learning, that it moves the affections of the weaker Sex. <hi>Olympia Fulvia</hi> of <hi>Ferrara,</hi> a moſt ingenious Woman, in thoſe latter times lived and dyed in <hi>Germany,</hi> whoſe Orations and learned Works are yet extant. After the ſame manner, many <hi>Virago</hi>'s indued with maſculine courage, have affected and obtained the honour of war<g ref="char:EOLhyphen"/>like fortitude. The <hi>Roman</hi> Virgin <hi>Clelia,</hi> be<g ref="char:EOLhyphen"/>ing one of the Pledges given to King <hi>Por<g ref="char:EOLhyphen"/>ſenna,</hi>
+                        <pb n="102" facs="tcp:45199:56"/>in the night-time eſcaped her Guards, took Horſe, and by her ſpeedy paſſing the Ri<g ref="char:EOLhyphen"/>ver, not only free'd her City of a dangerous ſiege, but of all fear.</p>
+                     <p>Thirdly we read that many War-like <hi>Hero's,</hi> and Eminent <hi>Gown-men,</hi> who at home and a<g ref="char:EOLhyphen"/>broad have deſerved well of their Country, have fallen from the height of Honour into great Calamities. Therfore we may exclaim with <hi>Lucan,</hi> in his Firſt Book of the Civil War 'twixt <hi>Caeſar</hi> and <hi>Pompey.</hi>
+                     </p>
+                     <q>
+                        <l>Invida fatorum ſeries ſummiſque negatum,</l>
+                        <l>Stare diu, nimioque graves ſub pondere lapſus.</l>
+                     </q>
+                     <q>
+                        <l>Fates envious courſe continuance doth deny,</l>
+                        <l>To mighty Men, who greateſt falls do try.</l>
+                     </q>
+                     <p>What is more famous than the exile of <hi>Scipio</hi>
+                        <note n="*" place="margin">
+                           <hi>Valer. Max. lib.</hi> 5. <hi>cap.</hi> 3.</note> and <hi>Themiſtocles? Franciſcus Buſſo<g ref="char:EOLhyphen"/>nus</hi> General of the Venetian Army, a Man Valiant and active againſt <hi>Philip</hi> Duke of <hi>Millain,</hi> after his taking of <hi>Verona</hi> and <hi>Brixia,</hi> was accus'd of perfidious delay, brought to <hi>Venice</hi> in the courſe of his Actions, and there
+<note n="*" place="margin">
+                           <hi>Petrus Juſt. l.</hi> 7. <hi>hiſt. Venetae.</hi>
+                        </note> beheaded. <hi>Conradine,</hi> the Nephew of the Emperour <hi>Frederick Barbaroſſa,</hi> for the loſs of a Battel at the inſtigation of the Pope, and the Arch-Duke
+<pb n="103" facs="tcp:45199:56"/>of <hi>Auſtria,</hi> had his Head ſtruck off in the Market-place of the City of <hi>Naples. Socra<g ref="char:EOLhyphen"/>tes</hi> the wiſeſt of <hi>Greece,</hi> by the teſtimony of the Oracle, dyed a
+<note n="*" place="margin">
+                           <hi>Val. Max. lib.</hi> 7. <hi>cap.</hi> 2.</note> violent death. <hi>Cicero</hi> the Fountain of <hi>Roman Eloquence,</hi> was firſt ba<g ref="char:EOLhyphen"/>niſh'd
+<note n="*" place="margin">Plut. in vita Ciceron.</note> and then beheaded. <hi>William Hugonet,</hi> Chancellour to <hi>Charles</hi> Duke of <hi>Burgundy,</hi> after the death of his Prince at <hi>Nancy,</hi> was beheaded by the People of <hi>Gaunt.</hi> That famous Lawyer <hi>Alpianus</hi> was baniſhed by <hi>Heliogabolus. Belliſarius</hi> and <hi>Narſes,</hi> two fa<g ref="char:EOLhyphen"/>mous and glorious Captains, after they had obtain'd great and honourable Victories, were thruſt from their commands, and reduc'd to miſery by the Emperour <hi>Juſtinian. Gonſalvo,</hi> having obtain'd the name of great Captain by the conſent of all Chriſtendom, after he had confirmed the Kingdom of <hi>Naples</hi> to his Maſter,
+<note n="†" place="margin">Jovius <hi>in his life.</hi>
+                        </note> by his ſin<g ref="char:EOLhyphen"/>gular Vertue and Conſtancy, was required to give up his Accounts, and thereby brought in diſgrace. I ſhall for<g ref="char:EOLhyphen"/>bear to produce examples of latter Favourites, as alſo of thoſe who have ſuffered for the glory of God and good of their Country, (becauſe I do not intend here a Martyrology.) If we would but look into the Courts of Princes e<g ref="char:EOLhyphen"/>ven of latter times, what a Multitude of evils and misfortunes would offer themſelves? and
+<pb n="104" facs="tcp:45199:57"/>how many examples of the Courts inconſtancy could we inſtance.</p>
+                     <div n="1" type="subsection">
+                        <head>Subſect. 1. <hi>Shewing the cauſes of their ſo ſad fate.</hi>
+                        </head>
+                        <p>I judge the cauſes thereof to be, either thoſe in great favour with Kings and Princes do put too much confidence therein, or oppreſs'd with envy (which is the inſeparable Con<g ref="char:EOLhyphen"/>comitant of Vertue and Felicity) they fall into diſgrace; or Fortune (according to her cu<g ref="char:EOLhyphen"/>ſtome) at length deſerts Men loaded with riches and honours; or their Spirits fail them being oppreſſed with the weight of affairs. Injuſtice and deſire of private gain have alſo been the ruine of many. Hence you may ſee Men blinded with avarice and ambition run beyond the limits of their duty, and many (according to <hi>Polybius</hi>) more fit to innovate than manage affairs. To which may be ad<g ref="char:EOLhyphen"/>ded the change of the Prince his inclination, which appears after Favorites have acquired great riches and dignities. For (according to <hi>Martial,</hi>)
+<q>Immodicis brevis eſt aetas &amp; rara ſenectus.</q>
+                        </p>
+                        <p>Next the divulging of the Prince's ſecrets: And finally the anger and ſuſpicion of Prin<g ref="char:EOLhyphen"/>ces: for ſuch give themſelves up to their own
+<pb n="105" facs="tcp:45199:57"/>humours, and whilſt they endeavour to con<g ref="char:EOLhyphen"/>firm their authority, they erre ſometimes in the exceſs of puniſhing.</p>
+                        <p>Theſe are the ordinary cauſes of the ruine of many brave Men. There are alſo other Theological reaſons. Firſt, the godly Man is not innocent before God, it's needful for all Men to be ſubject to afflictions, that therein their divine vertues may be exerciſed. <hi>Be<g ref="char:EOLhyphen"/>fore I was afflicted I went aſtray,</hi> ſays the Pſal<g ref="char:EOLhyphen"/>miſt, <hi>and trouble gives underſtanding,</hi> ſays <hi>Eſaias.</hi> Secondly, that it may appear, that all things are not ruled by human Counſels, becauſe it's written, <hi>I will deſtroy the wiſdom of the wiſe.</hi>
+                        </p>
+                        <p>The more therefore with the Apoſtle to <hi>Timothy</hi> is the ſafety of Princes to be recom<g ref="char:EOLhyphen"/>mended to God, that they may do what is good and juſt in his eyes, leſt afterwards Vi<g ref="char:EOLhyphen"/>ces turn into Manners, where at length (ac<g ref="char:EOLhyphen"/>cording to <hi>Seneca</hi>) there is no redreſs. Let their Miniſters, who are intruſted with Offi<g ref="char:EOLhyphen"/>ces either military or civil, endeavour to fol<g ref="char:EOLhyphen"/>low the Dictates of Virtue, hoping felicity in their actions from God to whom they muſt give an account. Whereby it will come to paſs that they ſhall have comfort in whatſo<g ref="char:EOLhyphen"/>ever calamity, and ſhall not ſuffer any thing, but what will be conducing to the good of their Souls. But leſt we involve our ſelves in this Labyrinth beyond our intention, let us
+<pb n="106" facs="tcp:45199:58"/>refer the whole matter to the ſecret, yet juſt judgment of God.</p>
+                     </div>
+                  </div>
+               </div>
+               <div n="3" type="chapter">
+                  <head>CHAP. III. <hi>Shewing that Arms and Learning go hand in hand together.</hi>
+                  </head>
+                  <p>IT follows therefore that Letters and Arms ſhould not only accord, but be inſeparably conjoyn'd, beſides the Reaſons above-menti<g ref="char:EOLhyphen"/>oned, becauſe Martial Proweſs doth furniſh matter to Learning. Hence was <hi>Hercules</hi> call'd <hi>Muſagetes,</hi> and was ador'd in a Temple dedicated to himſelf, and the <hi>Muſes;</hi> as on the contrary Learned men do Eternize the Me<g ref="char:EOLhyphen"/>mory of virtuous actions, that they may be al<g ref="char:EOLhyphen"/>ſo Immortal to Poſterity. <hi>Suetonius Tran<g ref="char:EOLhyphen"/>quillus</hi> writ a Book of ſuch as were famous in the <hi>Roman Commonwealth,</hi> either for their war-like actions, or civil policy. Saint <hi>Jerom</hi> following his Example, writ a Book of Holy Men, famous in the Church of God. And in latter times, <hi>Paulus Jovius</hi> did honour, with ſplendid Elogies, men famous either for their Martial Proweſs, or their refined and learned Wits.</p>
+                  <p>The dangerous Contentions for Honour ought to be ſhunn'd, and the ſame given to
+<pb n="107" facs="tcp:45199:58"/>Virtue, whoſe proper reward it is, and that without any envy, whereby whole Common<g ref="char:EOLhyphen"/>wealths have periſhed, and of which Hiſtory furniſheth us with many famous Examples. Who contend for Honour in a Commonwealth (ſays <hi>Plato</hi>) are like Mariners ſtriving in a Tempeſt who ſhould be Pilot, which cannot be without the evident danger of all. It's the part therefore of wiſe men to hate Emulations, and the greedy deſire of Vain-glory, and to follow Honour, but not ambitiouſly to covet the ſame. Ambition was prohi<g ref="char:EOLhyphen"/>bited of old at
+<note n="†" place="margin">Cicero <hi>de Orato.</hi>
+                     </note> 
+                     <hi>Rome,</hi> by the ſe<g ref="char:EOLhyphen"/>vereſt Laws. If all the indue<g ref="char:EOLhyphen"/>ments of Body and Mind, and all External Dignities were conſidered, we would find that they were not ſufficient to the tranquility of Humane Life; we ſhould aug<g ref="char:EOLhyphen"/>ment therefore the care of Piety, and leſſen the ſolicitude of periſhing things, and eſpecial<g ref="char:EOLhyphen"/>ly that ſpecious trouble which we ſee moſt ſtrictly joyn'd with acquired Power. It is written, <hi>Do all to the Glory of God;</hi> this is the end which all Chriſtians ſhould propoſe to themſelves; the reſt do not only periſh with us, but in the midſt of our courſe they with<g ref="char:EOLhyphen"/>draw themſelves, and vaniſh. The Govern<g ref="char:EOLhyphen"/>ment of men is obnoxious to divers Changes, therefore it ſtands in need of men fitted for all times, as divers Remedies are to be uſed according to the nature of mens Diſeaſes:
+<pb n="108" facs="tcp:45199:59"/>Sometimes Arms, ſometimes Learning is re<g ref="char:EOLhyphen"/>quired, and neither can ſubſiſt without the o<g ref="char:EOLhyphen"/>ther. It is abſolutely neceſſary, that Juſtice be attended with Arms; and it is certain, that God is the Fountain of Juſtice, and that the higheſt and loweſt Vocations are governed by him: Therefore we ſhould pray for Concord, Humility, and Mutual Love.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>NOw at the cloſe, Ingenuous Youth ſhould be admoniſhed, that as the Ci<g ref="char:EOLhyphen"/>vil Perfection of Man conſiſts in Military and Doctoral Dignities; and as in this Politique Government divers Offices are required, they would ſtudy thoſe two Noble Arts without pride, or mutual contempt. And let thoſe who are to be Souldiers conſider, that the De<g ref="char:EOLhyphen"/>fenders of their Country ſhall have Glory on Earth, and Felicity in Heaven. But where there is a neceſſity of War, let it be underta<g ref="char:EOLhyphen"/>ken, that nothing ſeem to be required but Peace; whereby (according to
+<note n="†" place="margin">
+                     <hi>Hist. Ro<g ref="char:EOLhyphen"/>man. lib.</hi> 2.</note> 
+                  <hi>Velleius) the Laws and Juſtice flouriſh:</hi> For a certain Honourable Peace is far better than an uncer<g ref="char:EOLhyphen"/>tain event of War: <hi>All the events of Warare un<g ref="char:EOLhyphen"/>certain,</hi> ſays <hi>Cicero.</hi> Moreover, although what we know is far leſs than what we are ignorant of, for (according to the <hi>Apoſtle) in this life we
+<pb n="109" facs="tcp:45199:59"/>know but in part:</hi> Young men ought to learn what is neceſſary to the juſt Government of the Commonwealth, whereunto Earthly Riches and Honours ſhould not invite them ſo much, as that <hi>Celeſtial Remuneration,</hi> of which the Followers of true Vertue are certain. Finally, let them contain themſelves within the limits of their Vocation, neither let them (allured with the deſire of Superiority, which is always joyn'd with preſent danger) attempt any thing beyond their ability.</p>
+               <p>O happy <hi>England!</hi> if young Men of noble Birth and opulent fortunes, would not loſe their youthful years in riot, voluptuous plea<g ref="char:EOLhyphen"/>ſures, and all ſorts of ſenſuality; but would inſtruct and adorn their minds with vertuous Sciences. By ſo doing they ſhould not only learn to live well themſelves, but alſo to rule o<g ref="char:EOLhyphen"/>thers aright; they ſhould the better acquire political knowledge, and inſtructed with vertu<g ref="char:EOLhyphen"/>ous Precepts of Philoſophy ſhould contain themſelves within the limits of their duty, be more fit for the Government of the Common<g ref="char:EOLhyphen"/>wealth either in Peace or War, and extend and augment the ſplendour of their Birth by their laudable actions. Thoſe are the Pillars and Supporters of ſolid Honour and Glory, by thoſe Wings we mount to Heaven, and by thoſe watchings and pains we acquire eternal Fame and Glory.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:45199:60"/>
+            <head>ERRATA.</head>
+            <p>PAge 10. line 30. for <hi>Councellors,</hi> read <hi>Councellor.</hi> P. 13. l. 4. after <hi>be,</hi> r. <hi>ſo.</hi> p. 16. l. 18. for <hi>Treaſures</hi> r. <hi>in the Treaſury.</hi> l. 27. r. <hi>that,</hi> after <hi>Liberality.</hi> p. 77. l. 24. dele <hi>to be.</hi> p. 92. l. 21. <hi>for</hi> Mercuris r. Mercurio.</p>
+            <pb facs="tcp:45199:60"/>
+         </div>
+      </back>
+   </text>
+</TEI>
